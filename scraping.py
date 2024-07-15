@@ -36,6 +36,8 @@ try:
     if response.status_code==200:
         print("working successfully")
         data=response.json()
+        with open('data.json', 'w') as file:
+            json.dump(data, file, indent=4)
         # print(data)
     
         
@@ -71,12 +73,11 @@ cursor = db.cursor()
 for index, row in wegmndata.iterrows():
             name = row['name']
             base_price = row['base_price']
-            print("name",name)
-            print("base_price",base_price)
-
-sql = "INSERT INTO WEGMN_TABLE (name, base_price) VALUES (%s, %s)"
-val = (name, base_price)
-cursor.execute(sql, val)
+            # print("name",name)
+            # print("base_price",base_price)
+            sql = "INSERT INTO WEGMN_TABLE (name, base_price) VALUES (%s, %s)"
+            val = (name, base_price)
+            cursor.execute(sql, val)
 db.commit()
 db.close()
 
