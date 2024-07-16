@@ -18,7 +18,7 @@ def transform_and_load_to_sql(file_path):
         with open(file_path, 'r') as f:
             data = json.load(f)
         # Example transformation (customize this as needed)
-        transformed_data = [(item['field1'], item['field2']) for item in data]
+        transformed_data = [(item['name'], item['base_price']) for item in data]
 
         # Connect to MySQL
         connection = pymysql.connect(
