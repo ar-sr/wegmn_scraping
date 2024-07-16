@@ -1,8 +1,3 @@
-# Using this API, save the file as `data.json` every day at even hours (i.e., 1 AM, 3 AM, etc.). When the data is saved, immediately trigger a signal to extract the product name, price, and URL, and store them in an RDBMS. Additionally, write a service to check if the saved URLs thus saved  are active or not. If active, set a boolean field to `True` in the `prd_table`; if inactive, set it to `False`.
-
-
-
-
 import requests
 import pandas as pd
 import json

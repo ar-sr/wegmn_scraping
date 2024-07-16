@@ -3,7 +3,7 @@
     "available_context_types": [],
     "href": "/v2/store_products",
     "initial_search_term": "apple",
-    "item_count": 297,
+    "item_count": 298,
     "items": [
         {
             "_links": null,
@@ -64,7 +64,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:38:36 GMT",
+            "modified": "Tue, 16 Jul 2024 07:42:47 GMT",
             "name": "Wegmans Gala Apples, Bagged",
             "offers": null,
             "order_by_weight": false,
@@ -76,8 +76,8 @@
             "price_alert": null,
             "product_config": null,
             "product_rating": {
-                "average_rating": 4.086956521739131,
-                "user_count": 23
+                "average_rating": 4.083333333333333,
+                "user_count": 24
             },
             "product_type": "product",
             "promo_tag": null,
@@ -91,7 +91,7 @@
                 "score": null
             },
             "size_string": "48 oz bag",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -119,8 +119,8 @@
             "availability_message": null,
             "availability_status": true,
             "average_uom": "lb",
-            "average_weight": "0.6467",
-            "base_price": 1.93,
+            "average_weight": "0.5133",
+            "base_price": 1.53,
             "base_quantity": 1,
             "brand_name": null,
             "categories": [
@@ -167,7 +167,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 11:38:15 GMT",
+            "modified": "Tue, 16 Jul 2024 08:03:24 GMT",
             "name": "Honeycrisp Apples, Bulk",
             "offers": null,
             "order_by_weight": false,
@@ -194,7 +194,7 @@
                 "score": null
             },
             "size_string": null,
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -268,7 +268,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:39:21 GMT",
+            "modified": "Tue, 16 Jul 2024 08:02:56 GMT",
             "name": "Wegmans Honeycrisp Apples, Bagged",
             "offers": null,
             "order_by_weight": false,
@@ -295,7 +295,7 @@
                 "score": null
             },
             "size_string": "48 oz bag",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -371,7 +371,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:38:56 GMT",
+            "modified": "Tue, 16 Jul 2024 07:43:04 GMT",
             "name": "Fuji Apples, Bagged",
             "offers": null,
             "order_by_weight": false,
@@ -398,7 +398,7 @@
                 "score": null
             },
             "size_string": "3 lb bag",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -474,7 +474,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 11:38:28 GMT",
+            "modified": "Tue, 16 Jul 2024 07:43:32 GMT",
             "name": "Gala Apples",
             "offers": null,
             "order_by_weight": false,
@@ -501,7 +501,7 @@
                 "score": null
             },
             "size_string": null,
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -529,8 +529,8 @@
             "availability_message": null,
             "availability_status": true,
             "average_uom": "lb",
-            "average_weight": "0.4425",
-            "base_price": 1.77,
+            "average_weight": "0.415",
+            "base_price": 1.66,
             "base_quantity": 1,
             "brand_name": "wegmans",
             "categories": [
@@ -577,7 +577,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 11:38:18 GMT",
+            "modified": "Tue, 16 Jul 2024 07:42:39 GMT",
             "name": "Wegmans Organic Honeycrisp Apples",
             "offers": null,
             "order_by_weight": false,
@@ -604,7 +604,7 @@
                 "score": null
             },
             "size_string": "1 per lb",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -632,8 +632,8 @@
             "availability_message": null,
             "availability_status": true,
             "average_uom": "lb",
-            "average_weight": "0.45",
-            "base_price": 1.12,
+            "average_weight": "0.44",
+            "base_price": 1.1,
             "base_quantity": 1,
             "brand_name": null,
             "categories": [
@@ -680,7 +680,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 11:37:37 GMT",
+            "modified": "Tue, 16 Jul 2024 07:44:01 GMT",
             "name": "Pink Lady Apples",
             "offers": null,
             "order_by_weight": false,
@@ -707,7 +707,7 @@
                 "score": null
             },
             "size_string": null,
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -734,8 +734,8 @@
             "availability_message": null,
             "availability_status": true,
             "average_uom": "lb",
-            "average_weight": "0.435",
-            "base_price": 0.87,
+            "average_weight": "0.445",
+            "base_price": 0.89,
             "base_quantity": 1,
             "brand_name": null,
             "categories": [
@@ -782,7 +782,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:39:32 GMT",
+            "modified": "Tue, 16 Jul 2024 07:44:11 GMT",
             "name": "Granny Smith Apples",
             "offers": null,
             "order_by_weight": false,
@@ -809,7 +809,7 @@
                 "score": null
             },
             "size_string": null,
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -883,7 +883,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:40:06 GMT",
+            "modified": "Tue, 16 Jul 2024 08:02:30 GMT",
             "name": "Wegmans Organic Bagged Pink Lady Apples, FAMILY PACK",
             "offers": null,
             "order_by_weight": false,
@@ -895,8 +895,8 @@
             "price_alert": null,
             "product_config": null,
             "product_rating": {
-                "average_rating": 4.333333333333333,
-                "user_count": 3
+                "average_rating": 3.75,
+                "user_count": 4
             },
             "product_type": "product",
             "promo_tag": null,
@@ -910,7 +910,7 @@
                 "score": null
             },
             "size_string": "3 lb bag",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -939,113 +939,9 @@
             },
             "availability_message": null,
             "availability_status": true,
-            "average_weight": null,
-            "base_price": 9.99,
-            "base_quantity": 1,
-            "brand_name": "wegmans",
-            "categories": [
-                {
-                    "id": "74",
-                    "name": "Produce & Floral"
-                },
-                {
-                    "id": "75",
-                    "name": "Fruit"
-                },
-                {
-                    "id": "77",
-                    "name": "Bagged Apples"
-                }
-            ],
-            "display_uom": "ea",
-            "ext_data": {
-                "retailer_reference_code": "39761"
-            },
-            "ext_id": "39761",
-            "fulfillment_inventory_area_id": "3576",
-            "fulfillment_retailer_id": "231",
-            "fulfillment_retailer_store_id": "16",
-            "fulfillment_store_number": "5758",
-            "fulfillment_types": [
-                "instore",
-                "pickup",
-                "delivery"
-            ],
-            "href": "/store_products/266067",
-            "ic_item_id": "179481517818",
-            "ic_product_id": "20636774",
-            "id": "266067",
-            "images": {
-                "tile": {
-                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_61e408c5-7a0c-4214-bd96-656cdfcdc608.jpeg",
-                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_61e408c5-7a0c-4214-bd96-656cdfcdc608.jpeg",
-                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_61e408c5-7a0c-4214-bd96-656cdfcdc608.jpeg"
-                }
-            },
-            "is_alcoholic": false,
-            "loyalty_end_date": null,
-            "loyalty_price": null,
-            "loyalty_quantity": null,
-            "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:38:30 GMT",
-            "name": "Wegmans Organic Honeycrisp Apples, FAMILY PACK",
-            "offers": null,
-            "order_by_weight": false,
-            "ordering_parameters": {
-                "increment": 1,
-                "max": 100,
-                "min": 1
-            },
-            "price_alert": null,
-            "product_config": null,
-            "product_rating": {
-                "average_rating": 4.181818181818182,
-                "user_count": 11
-            },
-            "product_type": "product",
-            "promo_tag": null,
-            "promo_tag_percentage": null,
-            "reco_rating": 3.0,
-            "sale_end_date": null,
-            "sale_price": null,
-            "sale_quantity": null,
-            "search_result": {
-                "result_set": 0,
-                "score": null
-            },
-            "size_string": "3 lb",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
-            "source": null,
-            "source_id": null,
-            "sponsored": false,
-            "status": true,
-            "tags": [
-                "family_pack",
-                "heart_healthy",
-                "organic",
-                "wegmans_brand"
-            ],
-            "uom_price": {
-                "price": 3.33,
-                "uom": "lb"
-            },
-            "usa_snap_eligible": true,
-            "user_rating": null
-        },
-        {
-            "_links": null,
-            "additional_images": [],
-            "aisle": "    Produce",
-            "alcohol_retailer_id": null,
-            "availability": {
-                "source": "DEF/ETL",
-                "stock_level": 0
-            },
-            "availability_message": null,
-            "availability_status": true,
             "average_uom": "lb",
-            "average_weight": "0.59",
-            "base_price": 1.17,
+            "average_weight": "0.58",
+            "base_price": 1.15,
             "base_quantity": 1,
             "brand_name": null,
             "categories": [
@@ -1092,7 +988,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:38:50 GMT",
+            "modified": "Tue, 16 Jul 2024 07:44:04 GMT",
             "name": "Fuji Apples",
             "offers": null,
             "order_by_weight": false,
@@ -1119,7 +1015,7 @@
                 "score": null
             },
             "size_string": null,
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -1193,7 +1089,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 11:37:52 GMT",
+            "modified": "Tue, 16 Jul 2024 07:43:47 GMT",
             "name": "Wegmans Granny Smith Apples, Bagged",
             "offers": null,
             "order_by_weight": false,
@@ -1220,7 +1116,7 @@
                 "score": null
             },
             "size_string": "3 lb",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -1295,7 +1191,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:38:53 GMT",
+            "modified": "Tue, 16 Jul 2024 08:03:36 GMT",
             "name": "Wegmans SweeTango Apples, Bagged",
             "offers": null,
             "order_by_weight": false,
@@ -1307,8 +1203,8 @@
             "price_alert": null,
             "product_config": null,
             "product_rating": {
-                "average_rating": 4.84,
-                "user_count": 25
+                "average_rating": 4.846153846153846,
+                "user_count": 26
             },
             "product_type": "product",
             "promo_tag": null,
@@ -1322,7 +1218,7 @@
                 "score": null
             },
             "size_string": "3 lb",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -1398,7 +1294,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 11:38:30 GMT",
+            "modified": "Tue, 16 Jul 2024 07:43:51 GMT",
             "name": "Red Delicious Apples",
             "offers": null,
             "order_by_weight": false,
@@ -1425,7 +1321,7 @@
                 "score": null
             },
             "size_string": "1 ct",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -1499,7 +1395,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:38:56 GMT",
+            "modified": "Tue, 16 Jul 2024 07:44:19 GMT",
             "name": "Wegmans Empire Apples, Bagged",
             "offers": null,
             "order_by_weight": false,
@@ -1511,8 +1407,8 @@
             "price_alert": null,
             "product_config": null,
             "product_rating": {
-                "average_rating": 4.545454545454546,
-                "user_count": 11
+                "average_rating": 4.583333333333333,
+                "user_count": 12
             },
             "product_type": "product",
             "promo_tag": null,
@@ -1526,7 +1422,7 @@
                 "score": null
             },
             "size_string": "48 oz bag",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -1538,108 +1434,6 @@
             "uom_price": {
                 "price": 0.06,
                 "uom": "oz bag"
-            },
-            "usa_snap_eligible": true,
-            "user_rating": null
-        },
-        {
-            "_links": null,
-            "additional_images": [],
-            "aisle": "    Produce",
-            "alcohol_retailer_id": null,
-            "availability": {
-                "source": "DEF/ETL",
-                "stock_level": 0
-            },
-            "availability_message": null,
-            "availability_status": true,
-            "average_uom": "lb",
-            "average_weight": "0.425",
-            "base_price": 1.27,
-            "base_quantity": 1,
-            "brand_name": "wegmans",
-            "categories": [
-                {
-                    "id": "74",
-                    "name": "Produce & Floral"
-                },
-                {
-                    "id": "75",
-                    "name": "Fruit"
-                },
-                {
-                    "id": "76",
-                    "name": "Apples"
-                }
-            ],
-            "display_uom": "ea",
-            "ext_data": {
-                "retailer_reference_code": "806544"
-            },
-            "ext_id": "806544",
-            "fulfillment_inventory_area_id": "3576",
-            "fulfillment_retailer_id": "231",
-            "fulfillment_retailer_store_id": "16",
-            "fulfillment_store_number": "5758",
-            "fulfillment_types": [
-                "instore",
-                "pickup",
-                "delivery"
-            ],
-            "href": "/store_products/216097",
-            "ic_item_id": "1383423768",
-            "ic_product_id": "19399024",
-            "id": "216097",
-            "images": {
-                "tile": {
-                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_fc40d66b-2008-4715-a321-ce2e32218b42.jpeg",
-                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_fc40d66b-2008-4715-a321-ce2e32218b42.jpeg",
-                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_fc40d66b-2008-4715-a321-ce2e32218b42.jpeg"
-                }
-            },
-            "is_alcoholic": false,
-            "loyalty_end_date": null,
-            "loyalty_price": null,
-            "loyalty_quantity": null,
-            "message_code": null,
-            "modified": "Mon, 15 Jul 2024 11:37:48 GMT",
-            "name": "Wegmans Sugar Bee Apples",
-            "offers": null,
-            "order_by_weight": false,
-            "ordering_parameters": {
-                "increment": 1,
-                "max": 100,
-                "min": 1
-            },
-            "price_alert": null,
-            "product_config": null,
-            "product_rating": {
-                "average_rating": 4.882352941176471,
-                "user_count": 17
-            },
-            "product_type": "product",
-            "promo_tag": null,
-            "promo_tag_percentage": null,
-            "reco_rating": 3.0,
-            "sale_end_date": null,
-            "sale_price": null,
-            "sale_quantity": null,
-            "search_result": {
-                "result_set": 0,
-                "score": null
-            },
-            "size_string": null,
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
-            "source": null,
-            "source_id": null,
-            "sponsored": false,
-            "status": true,
-            "tags": [
-                "wegmans_brand"
-            ],
-            "uom_price": {
-                "price": 2.99,
-                "uom": "lb"
             },
             "usa_snap_eligible": true,
             "user_rating": null
@@ -1704,7 +1498,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:39:27 GMT",
+            "modified": "Tue, 16 Jul 2024 08:02:37 GMT",
             "name": "Organic Fuji Apples",
             "offers": null,
             "order_by_weight": false,
@@ -1731,7 +1525,7 @@
                 "score": null
             },
             "size_string": null,
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -1806,7 +1600,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 11:38:28 GMT",
+            "modified": "Tue, 16 Jul 2024 08:04:04 GMT",
             "name": "Bagged Clementines, FAMILY PACK",
             "offers": null,
             "order_by_weight": false,
@@ -1833,7 +1627,7 @@
                 "score": null
             },
             "size_string": "5 lb bag",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -1940,7 +1734,7 @@
                 "score": null
             },
             "size_string": "48 oz bag",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -1952,6 +1746,108 @@
             "uom_price": {
                 "price": 0.07,
                 "uom": "oz bag"
+            },
+            "usa_snap_eligible": true,
+            "user_rating": null
+        },
+        {
+            "_links": null,
+            "additional_images": [],
+            "aisle": "    Produce",
+            "alcohol_retailer_id": null,
+            "availability": {
+                "source": "DEF/ETL",
+                "stock_level": 0
+            },
+            "availability_message": null,
+            "availability_status": true,
+            "average_uom": "lb",
+            "average_weight": "0.405",
+            "base_price": 1.21,
+            "base_quantity": 1,
+            "brand_name": "wegmans",
+            "categories": [
+                {
+                    "id": "74",
+                    "name": "Produce & Floral"
+                },
+                {
+                    "id": "75",
+                    "name": "Fruit"
+                },
+                {
+                    "id": "86",
+                    "name": "Peaches, Plums, Nectarines and Apricots"
+                }
+            ],
+            "display_uom": "ea",
+            "ext_data": {
+                "retailer_reference_code": "92966"
+            },
+            "ext_id": "92966",
+            "fulfillment_inventory_area_id": "3576",
+            "fulfillment_retailer_id": "231",
+            "fulfillment_retailer_store_id": "16",
+            "fulfillment_store_number": "5758",
+            "fulfillment_types": [
+                "instore",
+                "pickup",
+                "delivery"
+            ],
+            "href": "/store_products/22353627",
+            "ic_item_id": "1368013907",
+            "ic_product_id": "21045836",
+            "id": "22353627",
+            "images": {
+                "tile": {
+                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_03d12c76-237d-4626-9eaa-2123842e37ea.jpeg",
+                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_03d12c76-237d-4626-9eaa-2123842e37ea.jpeg",
+                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_03d12c76-237d-4626-9eaa-2123842e37ea.jpeg"
+                }
+            },
+            "is_alcoholic": false,
+            "loyalty_end_date": null,
+            "loyalty_price": null,
+            "loyalty_quantity": null,
+            "message_code": null,
+            "modified": "Tue, 16 Jul 2024 08:03:59 GMT",
+            "name": "Wegmans Select Nectarines",
+            "offers": null,
+            "order_by_weight": false,
+            "ordering_parameters": {
+                "increment": 1,
+                "max": 100,
+                "min": 1
+            },
+            "price_alert": null,
+            "product_config": null,
+            "product_rating": {
+                "average_rating": 3.625,
+                "user_count": 8
+            },
+            "product_type": "product",
+            "promo_tag": null,
+            "promo_tag_percentage": null,
+            "reco_rating": 3.0,
+            "sale_end_date": null,
+            "sale_price": null,
+            "sale_quantity": null,
+            "search_result": {
+                "result_set": 0,
+                "score": null
+            },
+            "size_string": null,
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
+            "source": null,
+            "source_id": null,
+            "sponsored": false,
+            "status": true,
+            "tags": [
+                "wegmans_brand"
+            ],
+            "uom_price": {
+                "price": 2.99,
+                "uom": "lb"
             },
             "usa_snap_eligible": true,
             "user_rating": null
@@ -2043,7 +1939,7 @@
                 "score": null
             },
             "size_string": null,
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -2118,7 +2014,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:40:17 GMT",
+            "modified": "Tue, 16 Jul 2024 07:43:51 GMT",
             "name": "Wegmans Celery Sticks Snack Pack, 4 Pack",
             "offers": null,
             "order_by_weight": false,
@@ -2145,7 +2041,7 @@
                 "score": null
             },
             "size_string": "12 oz",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -2224,7 +2120,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:40:04 GMT",
+            "modified": "Tue, 16 Jul 2024 07:42:43 GMT",
             "name": "Wegmans Red Delicious Apples, Bagged",
             "offers": null,
             "order_by_weight": false,
@@ -2251,7 +2147,7 @@
                 "score": null
             },
             "size_string": "48 oz bag",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -2279,109 +2175,7 @@
             "availability_message": null,
             "availability_status": true,
             "average_uom": "lb",
-            "average_weight": "0.25",
-            "base_price": 0.75,
-            "base_quantity": 1,
-            "brand_name": null,
-            "categories": [
-                {
-                    "id": "74",
-                    "name": "Produce & Floral"
-                },
-                {
-                    "id": "75",
-                    "name": "Fruit"
-                },
-                {
-                    "id": "86",
-                    "name": "Peaches, Plums, Nectarines and Apricots"
-                }
-            ],
-            "display_uom": "ea",
-            "ext_data": {
-                "retailer_reference_code": "92582"
-            },
-            "ext_id": "92582",
-            "fulfillment_inventory_area_id": "3576",
-            "fulfillment_retailer_id": "231",
-            "fulfillment_retailer_store_id": "16",
-            "fulfillment_store_number": "5758",
-            "fulfillment_types": [
-                "instore",
-                "pickup",
-                "delivery"
-            ],
-            "href": "/store_products/29047",
-            "ic_item_id": "79071308",
-            "ic_product_id": "16345788",
-            "id": "29047",
-            "images": {
-                "tile": {
-                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_ec5377ee-0f61-4f36-bccf-bca9944f5589.jpeg",
-                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_ec5377ee-0f61-4f36-bccf-bca9944f5589.jpeg",
-                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_ec5377ee-0f61-4f36-bccf-bca9944f5589.jpeg"
-                }
-            },
-            "is_alcoholic": false,
-            "loyalty_end_date": null,
-            "loyalty_price": null,
-            "loyalty_quantity": null,
-            "message_code": null,
-            "modified": "Mon, 15 Jul 2024 11:38:25 GMT",
-            "name": "Black Plums",
-            "offers": null,
-            "order_by_weight": false,
-            "ordering_parameters": {
-                "increment": 1,
-                "max": 100,
-                "min": 1
-            },
-            "price_alert": null,
-            "product_config": null,
-            "product_rating": {
-                "average_rating": 2.3333333333333335,
-                "user_count": 3
-            },
-            "product_type": "product",
-            "promo_tag": null,
-            "promo_tag_percentage": null,
-            "reco_rating": 3.0,
-            "sale_end_date": null,
-            "sale_price": null,
-            "sale_quantity": null,
-            "search_result": {
-                "result_set": 0,
-                "score": null
-            },
-            "size_string": "1 ct",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
-            "source": null,
-            "source_id": null,
-            "sponsored": false,
-            "status": true,
-            "tags": [
-                "wegmans_brand"
-            ],
-            "uom_price": {
-                "price": 2.99,
-                "uom": "lb"
-            },
-            "usa_snap_eligible": true,
-            "user_rating": null
-        },
-        {
-            "_links": null,
-            "additional_images": [],
-            "aisle": "    Produce",
-            "alcohol_retailer_id": null,
-            "availability": {
-                "source": "DEF/ETL",
-                "stock_level": 0
-            },
-            "availability_message": null,
-            "availability_status": true,
-            "average_uom": "lb",
-            "average_weight": "0.4425",
+            "average_weight": "0.4433",
             "base_price": 1.1,
             "base_quantity": 1,
             "brand_name": null,
@@ -2429,7 +2223,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:38:36 GMT",
+            "modified": "Tue, 16 Jul 2024 08:02:37 GMT",
             "name": "Organic Gala Apples",
             "offers": null,
             "order_by_weight": false,
@@ -2441,8 +2235,8 @@
             "price_alert": null,
             "product_config": null,
             "product_rating": {
-                "average_rating": 0,
-                "user_count": 0
+                "average_rating": 5.0,
+                "user_count": 1
             },
             "product_type": "product",
             "promo_tag": null,
@@ -2456,7 +2250,7 @@
                 "score": null
             },
             "size_string": "1 ct",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -2483,112 +2277,8 @@
             },
             "availability_message": null,
             "availability_status": true,
-            "average_weight": null,
-            "base_price": 6.49,
-            "base_quantity": 1,
-            "brand_name": "wegmans",
-            "categories": [
-                {
-                    "id": "74",
-                    "name": "Produce & Floral"
-                },
-                {
-                    "id": "75",
-                    "name": "Fruit"
-                },
-                {
-                    "id": "77",
-                    "name": "Bagged Apples"
-                }
-            ],
-            "display_uom": "ea",
-            "ext_data": {
-                "retailer_reference_code": "23455"
-            },
-            "ext_id": "23455",
-            "fulfillment_inventory_area_id": "3576",
-            "fulfillment_retailer_id": "231",
-            "fulfillment_retailer_store_id": "16",
-            "fulfillment_store_number": "5758",
-            "fulfillment_types": [
-                "instore",
-                "pickup",
-                "delivery"
-            ],
-            "href": "/store_products/266078",
-            "ic_item_id": "179642331680",
-            "ic_product_id": "22022833",
-            "id": "266078",
-            "images": {
-                "tile": {
-                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_e8a68e57-eb95-4158-bb4d-9e9485d598d1.jpeg",
-                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_e8a68e57-eb95-4158-bb4d-9e9485d598d1.jpeg",
-                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_e8a68e57-eb95-4158-bb4d-9e9485d598d1.jpeg"
-                }
-            },
-            "is_alcoholic": false,
-            "loyalty_end_date": null,
-            "loyalty_price": null,
-            "loyalty_quantity": null,
-            "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:39:21 GMT",
-            "name": "Wegmans Organic Bagged Gala Apples, FAMILY PACK",
-            "offers": null,
-            "order_by_weight": false,
-            "ordering_parameters": {
-                "increment": 1,
-                "max": 100,
-                "min": 1
-            },
-            "price_alert": null,
-            "product_config": null,
-            "product_rating": {
-                "average_rating": 4.219512195121951,
-                "user_count": 41
-            },
-            "product_type": "product",
-            "promo_tag": null,
-            "promo_tag_percentage": null,
-            "reco_rating": 3.0,
-            "sale_end_date": null,
-            "sale_price": null,
-            "sale_quantity": null,
-            "search_result": {
-                "result_set": 0,
-                "score": null
-            },
-            "size_string": "3 lb",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
-            "source": null,
-            "source_id": null,
-            "sponsored": false,
-            "status": true,
-            "tags": [
-                "family_pack",
-                "heart_healthy",
-                "organic",
-                "wegmans_brand"
-            ],
-            "uom_price": {
-                "price": 2.16,
-                "uom": "lb"
-            },
-            "usa_snap_eligible": true,
-            "user_rating": null
-        },
-        {
-            "_links": null,
-            "additional_images": [],
-            "aisle": "    Produce",
-            "alcohol_retailer_id": null,
-            "availability": {
-                "source": "DEF/ETL",
-                "stock_level": 0
-            },
-            "availability_message": null,
-            "availability_status": true,
             "average_uom": "lb",
-            "average_weight": "0.412",
+            "average_weight": "0.41",
             "base_price": 0.2,
             "base_quantity": 1,
             "brand_name": null,
@@ -2636,7 +2326,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Sun, 14 Jul 2024 23:56:20 GMT",
+            "modified": "Mon, 15 Jul 2024 23:29:43 GMT",
             "name": "Bananas, Sold by the Each",
             "offers": null,
             "order_by_weight": false,
@@ -2663,7 +2353,7 @@
                 "score": null
             },
             "size_string": "1 ct",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -2673,6 +2363,108 @@
             ],
             "uom_price": {
                 "price": 0.49,
+                "uom": "lb"
+            },
+            "usa_snap_eligible": true,
+            "user_rating": null
+        },
+        {
+            "_links": null,
+            "additional_images": [],
+            "aisle": "    Produce",
+            "alcohol_retailer_id": null,
+            "availability": {
+                "source": "DEF/ETL",
+                "stock_level": 0
+            },
+            "availability_message": null,
+            "availability_status": true,
+            "average_uom": "lb",
+            "average_weight": "0.245",
+            "base_price": 0.73,
+            "base_quantity": 1,
+            "brand_name": null,
+            "categories": [
+                {
+                    "id": "74",
+                    "name": "Produce & Floral"
+                },
+                {
+                    "id": "75",
+                    "name": "Fruit"
+                },
+                {
+                    "id": "86",
+                    "name": "Peaches, Plums, Nectarines and Apricots"
+                }
+            ],
+            "display_uom": "ea",
+            "ext_data": {
+                "retailer_reference_code": "92582"
+            },
+            "ext_id": "92582",
+            "fulfillment_inventory_area_id": "3576",
+            "fulfillment_retailer_id": "231",
+            "fulfillment_retailer_store_id": "16",
+            "fulfillment_store_number": "5758",
+            "fulfillment_types": [
+                "instore",
+                "pickup",
+                "delivery"
+            ],
+            "href": "/store_products/29047",
+            "ic_item_id": "79071308",
+            "ic_product_id": "16345788",
+            "id": "29047",
+            "images": {
+                "tile": {
+                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_ec5377ee-0f61-4f36-bccf-bca9944f5589.jpeg",
+                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_ec5377ee-0f61-4f36-bccf-bca9944f5589.jpeg",
+                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_ec5377ee-0f61-4f36-bccf-bca9944f5589.jpeg"
+                }
+            },
+            "is_alcoholic": false,
+            "loyalty_end_date": null,
+            "loyalty_price": null,
+            "loyalty_quantity": null,
+            "message_code": null,
+            "modified": "Tue, 16 Jul 2024 07:43:44 GMT",
+            "name": "Black Plums",
+            "offers": null,
+            "order_by_weight": false,
+            "ordering_parameters": {
+                "increment": 1,
+                "max": 100,
+                "min": 1
+            },
+            "price_alert": null,
+            "product_config": null,
+            "product_rating": {
+                "average_rating": 2.3333333333333335,
+                "user_count": 3
+            },
+            "product_type": "product",
+            "promo_tag": null,
+            "promo_tag_percentage": null,
+            "reco_rating": 3.0,
+            "sale_end_date": null,
+            "sale_price": null,
+            "sale_quantity": null,
+            "search_result": {
+                "result_set": 0,
+                "score": null
+            },
+            "size_string": "1 ct",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
+            "source": null,
+            "source_id": null,
+            "sponsored": false,
+            "status": true,
+            "tags": [
+                "wegmans_brand"
+            ],
+            "uom_price": {
+                "price": 2.99,
                 "uom": "lb"
             },
             "usa_snap_eligible": true,
@@ -2737,7 +2529,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 11:38:15 GMT",
+            "modified": "Tue, 16 Jul 2024 08:03:05 GMT",
             "name": "Wegmans Baby Cut Carrots",
             "offers": null,
             "order_by_weight": false,
@@ -2764,7 +2556,7 @@
                 "score": null
             },
             "size_string": "16 oz bag",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -2844,7 +2636,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:39:32 GMT",
+            "modified": "Tue, 16 Jul 2024 08:03:02 GMT",
             "name": "Envy Apples",
             "offers": null,
             "order_by_weight": false,
@@ -2871,109 +2663,7 @@
                 "score": null
             },
             "size_string": null,
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
-            "source": null,
-            "source_id": null,
-            "sponsored": false,
-            "status": true,
-            "tags": [
-                "wegmans_brand"
-            ],
-            "uom_price": {
-                "price": 2.99,
-                "uom": "lb"
-            },
-            "usa_snap_eligible": true,
-            "user_rating": null
-        },
-        {
-            "_links": null,
-            "additional_images": [],
-            "aisle": "    Produce",
-            "alcohol_retailer_id": null,
-            "availability": {
-                "source": "DEF/ETL",
-                "stock_level": 0
-            },
-            "availability_message": null,
-            "availability_status": true,
-            "average_uom": "lb",
-            "average_weight": "0.405",
-            "base_price": 1.21,
-            "base_quantity": 1,
-            "brand_name": "wegmans",
-            "categories": [
-                {
-                    "id": "74",
-                    "name": "Produce & Floral"
-                },
-                {
-                    "id": "75",
-                    "name": "Fruit"
-                },
-                {
-                    "id": "86",
-                    "name": "Peaches, Plums, Nectarines and Apricots"
-                }
-            ],
-            "display_uom": "ea",
-            "ext_data": {
-                "retailer_reference_code": "92966"
-            },
-            "ext_id": "92966",
-            "fulfillment_inventory_area_id": "3576",
-            "fulfillment_retailer_id": "231",
-            "fulfillment_retailer_store_id": "16",
-            "fulfillment_store_number": "5758",
-            "fulfillment_types": [
-                "instore",
-                "pickup",
-                "delivery"
-            ],
-            "href": "/store_products/22353627",
-            "ic_item_id": "1368013907",
-            "ic_product_id": "21045836",
-            "id": "22353627",
-            "images": {
-                "tile": {
-                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_03d12c76-237d-4626-9eaa-2123842e37ea.jpeg",
-                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_03d12c76-237d-4626-9eaa-2123842e37ea.jpeg",
-                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_03d12c76-237d-4626-9eaa-2123842e37ea.jpeg"
-                }
-            },
-            "is_alcoholic": false,
-            "loyalty_end_date": null,
-            "loyalty_price": null,
-            "loyalty_quantity": null,
-            "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:39:01 GMT",
-            "name": "Wegmans Select Nectarines",
-            "offers": null,
-            "order_by_weight": false,
-            "ordering_parameters": {
-                "increment": 1,
-                "max": 100,
-                "min": 1
-            },
-            "price_alert": null,
-            "product_config": null,
-            "product_rating": {
-                "average_rating": 3.625,
-                "user_count": 8
-            },
-            "product_type": "product",
-            "promo_tag": null,
-            "promo_tag_percentage": null,
-            "reco_rating": 3.0,
-            "sale_end_date": null,
-            "sale_price": null,
-            "sale_quantity": null,
-            "search_result": {
-                "result_set": 0,
-                "score": null
-            },
-            "size_string": null,
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -3048,7 +2738,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:39:54 GMT",
+            "modified": "Tue, 16 Jul 2024 07:42:43 GMT",
             "name": "Wegmans McIntosh Apples",
             "offers": null,
             "order_by_weight": false,
@@ -3075,7 +2765,7 @@
                 "score": null
             },
             "size_string": null,
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -3149,7 +2839,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:38:56 GMT",
+            "modified": "Tue, 16 Jul 2024 07:42:02 GMT",
             "name": "Pazazz Apples, Bagged",
             "offers": null,
             "order_by_weight": false,
@@ -3176,7 +2866,7 @@
                 "score": null
             },
             "size_string": "3 lb bag",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -3277,7 +2967,7 @@
                 "score": null
             },
             "size_string": "32 oz container",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -3304,215 +2994,9 @@
             },
             "availability_message": null,
             "availability_status": true,
-            "average_weight": null,
-            "base_price": 6.49,
-            "base_quantity": 1,
-            "brand_name": "wegmans",
-            "categories": [
-                {
-                    "id": "74",
-                    "name": "Produce & Floral"
-                },
-                {
-                    "id": "75",
-                    "name": "Fruit"
-                },
-                {
-                    "id": "77",
-                    "name": "Bagged Apples"
-                }
-            ],
-            "display_uom": "ea",
-            "ext_data": {
-                "retailer_reference_code": "23457"
-            },
-            "ext_id": "23457",
-            "fulfillment_inventory_area_id": "3576",
-            "fulfillment_retailer_id": "231",
-            "fulfillment_retailer_store_id": "16",
-            "fulfillment_store_number": "5758",
-            "fulfillment_types": [
-                "instore",
-                "pickup",
-                "delivery"
-            ],
-            "href": "/store_products/266070",
-            "ic_item_id": "179642331966",
-            "ic_product_id": "22019605",
-            "id": "266070",
-            "images": {
-                "tile": {
-                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_e1258d8d-4d94-478c-a91d-5f0070cd36ed.jpeg",
-                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_e1258d8d-4d94-478c-a91d-5f0070cd36ed.jpeg",
-                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_e1258d8d-4d94-478c-a91d-5f0070cd36ed.jpeg"
-                }
-            },
-            "is_alcoholic": false,
-            "loyalty_end_date": null,
-            "loyalty_price": null,
-            "loyalty_quantity": null,
-            "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:39:25 GMT",
-            "name": "Wegmans Organic Fuji Apples, FAMILY PACK",
-            "offers": null,
-            "order_by_weight": false,
-            "ordering_parameters": {
-                "increment": 1,
-                "max": 100,
-                "min": 1
-            },
-            "price_alert": null,
-            "product_config": null,
-            "product_rating": {
-                "average_rating": 3.6,
-                "user_count": 5
-            },
-            "product_type": "product",
-            "promo_tag": null,
-            "promo_tag_percentage": null,
-            "reco_rating": 3.0,
-            "sale_end_date": null,
-            "sale_price": null,
-            "sale_quantity": null,
-            "search_result": {
-                "result_set": 0,
-                "score": null
-            },
-            "size_string": "3 lb",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
-            "source": null,
-            "source_id": null,
-            "sponsored": false,
-            "status": true,
-            "tags": [
-                "family_pack",
-                "heart_healthy",
-                "organic",
-                "wegmans_brand"
-            ],
-            "uom_price": {
-                "price": 2.16,
-                "uom": "lb"
-            },
-            "usa_snap_eligible": true,
-            "user_rating": null
-        },
-        {
-            "_links": null,
-            "additional_images": [],
-            "aisle": "    Produce",
-            "alcohol_retailer_id": null,
-            "availability": {
-                "source": "DEF/ETL",
-                "stock_level": 0
-            },
-            "availability_message": null,
-            "availability_status": true,
             "average_uom": "lb",
-            "average_weight": "0.5",
-            "base_price": 1.0,
-            "base_quantity": 1,
-            "brand_name": null,
-            "categories": [
-                {
-                    "id": "74",
-                    "name": "Produce & Floral"
-                },
-                {
-                    "id": "75",
-                    "name": "Fruit"
-                },
-                {
-                    "id": "76",
-                    "name": "Apples"
-                }
-            ],
-            "display_uom": "ea",
-            "ext_data": {
-                "retailer_reference_code": "373153"
-            },
-            "ext_id": "373153",
-            "fulfillment_inventory_area_id": "3576",
-            "fulfillment_retailer_id": "231",
-            "fulfillment_retailer_store_id": "16",
-            "fulfillment_store_number": "5758",
-            "fulfillment_types": [
-                "instore",
-                "pickup",
-                "delivery"
-            ],
-            "href": "/store_products/3349",
-            "ic_item_id": "88369424",
-            "ic_product_id": "16345710",
-            "id": "3349",
-            "images": {
-                "tile": {
-                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_4bdde87f-abfa-4a93-86e3-b945ae30a037.jpeg",
-                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_4bdde87f-abfa-4a93-86e3-b945ae30a037.jpeg",
-                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_4bdde87f-abfa-4a93-86e3-b945ae30a037.jpeg"
-                }
-            },
-            "is_alcoholic": false,
-            "loyalty_end_date": null,
-            "loyalty_price": null,
-            "loyalty_quantity": null,
-            "message_code": null,
-            "modified": "Mon, 15 Jul 2024 11:38:15 GMT",
-            "name": "SweeTango Apples",
-            "offers": null,
-            "order_by_weight": false,
-            "ordering_parameters": {
-                "increment": 1,
-                "max": 100,
-                "min": 1
-            },
-            "price_alert": null,
-            "product_config": null,
-            "product_rating": {
-                "average_rating": 4.642857142857143,
-                "user_count": 28
-            },
-            "product_type": "product",
-            "promo_tag": null,
-            "promo_tag_percentage": null,
-            "reco_rating": 3.0,
-            "sale_end_date": null,
-            "sale_price": null,
-            "sale_quantity": null,
-            "search_result": {
-                "result_set": 0,
-                "score": null
-            },
-            "size_string": "1 ct",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
-            "source": null,
-            "source_id": null,
-            "sponsored": false,
-            "status": true,
-            "tags": [
-                "wegmans_brand"
-            ],
-            "uom_price": {
-                "price": 1.99,
-                "uom": "lb"
-            },
-            "usa_snap_eligible": true,
-            "user_rating": null
-        },
-        {
-            "_links": null,
-            "additional_images": [],
-            "aisle": "    Produce",
-            "alcohol_retailer_id": null,
-            "availability": {
-                "source": "DEF/ETL",
-                "stock_level": 0
-            },
-            "availability_message": null,
-            "availability_status": true,
-            "average_uom": "lb",
-            "average_weight": "0.39",
-            "base_price": 1.56,
+            "average_weight": "0.38",
+            "base_price": 1.52,
             "base_quantity": 1,
             "brand_name": null,
             "categories": [
@@ -3559,7 +3043,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:39:46 GMT",
+            "modified": "Tue, 16 Jul 2024 07:42:27 GMT",
             "name": "Select White Peach",
             "offers": null,
             "order_by_weight": false,
@@ -3586,7 +3070,7 @@
                 "score": null
             },
             "size_string": "1 lb",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -3596,6 +3080,213 @@
             ],
             "uom_price": {
                 "price": 3.99,
+                "uom": "lb"
+            },
+            "usa_snap_eligible": true,
+            "user_rating": null
+        },
+        {
+            "_links": null,
+            "additional_images": [],
+            "aisle": "    Produce",
+            "alcohol_retailer_id": null,
+            "availability": {
+                "source": "DEF/ETL",
+                "stock_level": 0
+            },
+            "availability_message": null,
+            "availability_status": true,
+            "average_weight": null,
+            "base_price": 7.99,
+            "base_quantity": 1,
+            "brand_name": null,
+            "categories": [
+                {
+                    "id": "74",
+                    "name": "Produce & Floral"
+                },
+                {
+                    "id": "75",
+                    "name": "Fruit"
+                },
+                {
+                    "id": "77",
+                    "name": "Bagged Apples"
+                }
+            ],
+            "display_uom": "ea",
+            "ext_data": {
+                "retailer_reference_code": "48954"
+            },
+            "ext_id": "48954",
+            "fulfillment_inventory_area_id": "3576",
+            "fulfillment_retailer_id": "231",
+            "fulfillment_retailer_store_id": "16",
+            "fulfillment_store_number": "5758",
+            "fulfillment_types": [
+                "instore",
+                "pickup",
+                "delivery"
+            ],
+            "href": "/store_products/201884",
+            "ic_item_id": "2097160814",
+            "ic_product_id": "20084034",
+            "id": "201884",
+            "images": {
+                "tile": {
+                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_8e0336c3-5283-42a2-9d9b-61568cede9dc.jpeg",
+                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_8e0336c3-5283-42a2-9d9b-61568cede9dc.jpeg",
+                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_8e0336c3-5283-42a2-9d9b-61568cede9dc.jpeg"
+                }
+            },
+            "is_alcoholic": false,
+            "loyalty_end_date": null,
+            "loyalty_price": null,
+            "loyalty_quantity": null,
+            "message_code": null,
+            "modified": "Tue, 16 Jul 2024 07:41:55 GMT",
+            "name": "Fuji Apples, Bagged,FAMILY PACK",
+            "offers": null,
+            "order_by_weight": false,
+            "ordering_parameters": {
+                "increment": 1,
+                "max": 100,
+                "min": 1
+            },
+            "price_alert": null,
+            "product_config": null,
+            "product_rating": {
+                "average_rating": 4.0,
+                "user_count": 4
+            },
+            "product_type": "product",
+            "promo_tag": null,
+            "promo_tag_percentage": null,
+            "reco_rating": 3.0,
+            "sale_end_date": null,
+            "sale_price": null,
+            "sale_quantity": null,
+            "search_result": {
+                "result_set": 0,
+                "score": null
+            },
+            "size_string": "8 lb",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
+            "source": null,
+            "source_id": null,
+            "sponsored": false,
+            "status": true,
+            "tags": [
+                "family_pack",
+                "heart_healthy",
+                "wegmans_brand"
+            ],
+            "uom_price": {
+                "price": 1.0,
+                "uom": "lb"
+            },
+            "usa_snap_eligible": true,
+            "user_rating": null
+        },
+        {
+            "_links": null,
+            "additional_images": [],
+            "aisle": "    Produce",
+            "alcohol_retailer_id": null,
+            "availability": {
+                "source": "DEF/ETL",
+                "stock_level": 0
+            },
+            "availability_message": null,
+            "availability_status": true,
+            "average_weight": null,
+            "base_price": 6.49,
+            "base_quantity": 1,
+            "brand_name": "wegmans",
+            "categories": [
+                {
+                    "id": "74",
+                    "name": "Produce & Floral"
+                },
+                {
+                    "id": "75",
+                    "name": "Fruit"
+                },
+                {
+                    "id": "77",
+                    "name": "Bagged Apples"
+                }
+            ],
+            "display_uom": "ea",
+            "ext_data": {
+                "retailer_reference_code": "23455"
+            },
+            "ext_id": "23455",
+            "fulfillment_inventory_area_id": "3576",
+            "fulfillment_retailer_id": "231",
+            "fulfillment_retailer_store_id": "16",
+            "fulfillment_store_number": "5758",
+            "fulfillment_types": [
+                "instore",
+                "pickup",
+                "delivery"
+            ],
+            "href": "/store_products/266078",
+            "ic_item_id": "179642331680",
+            "ic_product_id": "22022833",
+            "id": "266078",
+            "images": {
+                "tile": {
+                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_e8a68e57-eb95-4158-bb4d-9e9485d598d1.jpeg",
+                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_e8a68e57-eb95-4158-bb4d-9e9485d598d1.jpeg",
+                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_e8a68e57-eb95-4158-bb4d-9e9485d598d1.jpeg"
+                }
+            },
+            "is_alcoholic": false,
+            "loyalty_end_date": null,
+            "loyalty_price": null,
+            "loyalty_quantity": null,
+            "message_code": null,
+            "modified": "Tue, 16 Jul 2024 07:43:30 GMT",
+            "name": "Wegmans Organic Bagged Gala Apples, FAMILY PACK",
+            "offers": null,
+            "order_by_weight": false,
+            "ordering_parameters": {
+                "increment": 1,
+                "max": 100,
+                "min": 1
+            },
+            "price_alert": null,
+            "product_config": null,
+            "product_rating": {
+                "average_rating": 4.219512195121951,
+                "user_count": 41
+            },
+            "product_type": "product",
+            "promo_tag": null,
+            "promo_tag_percentage": null,
+            "reco_rating": 3.0,
+            "sale_end_date": null,
+            "sale_price": null,
+            "sale_quantity": null,
+            "search_result": {
+                "result_set": 0,
+                "score": null
+            },
+            "size_string": "3 lb",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
+            "source": null,
+            "source_id": null,
+            "sponsored": false,
+            "status": true,
+            "tags": [
+                "family_pack",
+                "heart_healthy",
+                "organic",
+                "wegmans_brand"
+            ],
+            "uom_price": {
+                "price": 2.16,
                 "uom": "lb"
             },
             "usa_snap_eligible": true,
@@ -3660,7 +3351,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 11:38:20 GMT",
+            "modified": "Tue, 16 Jul 2024 08:03:22 GMT",
             "name": "Blueberries, FAMILY PACK",
             "offers": null,
             "order_by_weight": false,
@@ -3687,7 +3378,7 @@
                 "score": null
             },
             "size_string": "18 oz container",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -3714,8 +3405,9 @@
             },
             "availability_message": null,
             "availability_status": true,
-            "average_weight": null,
-            "base_price": 7.99,
+            "average_uom": "lb",
+            "average_weight": "0.3963",
+            "base_price": 1.58,
             "base_quantity": 1,
             "brand_name": null,
             "categories": [
@@ -3728,15 +3420,15 @@
                     "name": "Fruit"
                 },
                 {
-                    "id": "77",
-                    "name": "Bagged Apples"
+                    "id": "86",
+                    "name": "Peaches, Plums, Nectarines and Apricots"
                 }
             ],
             "display_uom": "ea",
             "ext_data": {
-                "retailer_reference_code": "48954"
+                "retailer_reference_code": "92585"
             },
-            "ext_id": "48954",
+            "ext_id": "92585",
             "fulfillment_inventory_area_id": "3576",
             "fulfillment_retailer_id": "231",
             "fulfillment_retailer_store_id": "16",
@@ -3746,15 +3438,15 @@
                 "pickup",
                 "delivery"
             ],
-            "href": "/store_products/201884",
-            "ic_item_id": "2097160814",
-            "ic_product_id": "20084034",
-            "id": "201884",
+            "href": "/store_products/58757",
+            "ic_item_id": "88261373",
+            "ic_product_id": "16621849",
+            "id": "58757",
             "images": {
                 "tile": {
-                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_8e0336c3-5283-42a2-9d9b-61568cede9dc.jpeg",
-                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_8e0336c3-5283-42a2-9d9b-61568cede9dc.jpeg",
-                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_8e0336c3-5283-42a2-9d9b-61568cede9dc.jpeg"
+                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_c2aac913-f803-4321-b61a-3f379aa1c6eb.jpeg",
+                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_c2aac913-f803-4321-b61a-3f379aa1c6eb.jpeg",
+                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_c2aac913-f803-4321-b61a-3f379aa1c6eb.jpeg"
                 }
             },
             "is_alcoholic": false,
@@ -3762,8 +3454,8 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 11:38:10 GMT",
-            "name": "Fuji Apples, Bagged,FAMILY PACK",
+            "modified": "Tue, 16 Jul 2024 07:43:28 GMT",
+            "name": "White Nectarines",
             "offers": null,
             "order_by_weight": false,
             "ordering_parameters": {
@@ -3774,8 +3466,8 @@
             "price_alert": null,
             "product_config": null,
             "product_rating": {
-                "average_rating": 4.0,
-                "user_count": 4
+                "average_rating": 4.5,
+                "user_count": 10
             },
             "product_type": "product",
             "promo_tag": null,
@@ -3788,19 +3480,17 @@
                 "result_set": 0,
                 "score": null
             },
-            "size_string": "8 lb",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "size_string": "1 ct",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
             "status": true,
             "tags": [
-                "family_pack",
-                "heart_healthy",
                 "wegmans_brand"
             ],
             "uom_price": {
-                "price": 1.0,
+                "price": 3.99,
                 "uom": "lb"
             },
             "usa_snap_eligible": true,
@@ -3817,10 +3507,11 @@
             },
             "availability_message": null,
             "availability_status": true,
-            "average_weight": null,
-            "base_price": 7.49,
+            "average_uom": "lb",
+            "average_weight": "0.394",
+            "base_price": 0.98,
             "base_quantity": 1,
-            "brand_name": "wegmans",
+            "brand_name": null,
             "categories": [
                 {
                     "id": "74",
@@ -3831,15 +3522,15 @@
                     "name": "Fruit"
                 },
                 {
-                    "id": "77",
-                    "name": "Bagged Apples"
+                    "id": "76",
+                    "name": "Apples"
                 }
             ],
             "display_uom": "ea",
             "ext_data": {
-                "retailer_reference_code": "23458"
+                "retailer_reference_code": "172085"
             },
-            "ext_id": "23458",
+            "ext_id": "172085",
             "fulfillment_inventory_area_id": "3576",
             "fulfillment_retailer_id": "231",
             "fulfillment_retailer_store_id": "16",
@@ -3849,15 +3540,15 @@
                 "pickup",
                 "delivery"
             ],
-            "href": "/store_products/21634",
-            "ic_item_id": "78994565",
-            "ic_product_id": "1572880",
-            "id": "21634",
+            "href": "/store_products/45736",
+            "ic_item_id": "79122548",
+            "ic_product_id": "16631867",
+            "id": "45736",
             "images": {
                 "tile": {
-                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_7a1cebfb-b6e3-407d-b193-f20cef1c32b7.jpeg",
-                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_7a1cebfb-b6e3-407d-b193-f20cef1c32b7.jpeg",
-                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_7a1cebfb-b6e3-407d-b193-f20cef1c32b7.jpeg"
+                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_47839e58-95b5-4eb5-8421-1917f2ec96bf.jpeg",
+                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_47839e58-95b5-4eb5-8421-1917f2ec96bf.jpeg",
+                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_47839e58-95b5-4eb5-8421-1917f2ec96bf.jpeg"
                 }
             },
             "is_alcoholic": false,
@@ -3865,8 +3556,111 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:38:56 GMT",
-            "name": "Wegmans Organic Bagged Granny Smith Apples, FAMILY PACK",
+            "modified": "Tue, 16 Jul 2024 08:03:14 GMT",
+            "name": "Organic Granny Smith Apples",
+            "offers": null,
+            "order_by_weight": false,
+            "ordering_parameters": {
+                "increment": 1,
+                "max": 100,
+                "min": 1
+            },
+            "price_alert": null,
+            "product_config": null,
+            "product_rating": {
+                "average_rating": 4.0,
+                "user_count": 2
+            },
+            "product_type": "product",
+            "promo_tag": null,
+            "promo_tag_percentage": null,
+            "reco_rating": 3.0,
+            "sale_end_date": null,
+            "sale_price": null,
+            "sale_quantity": null,
+            "search_result": {
+                "result_set": 0,
+                "score": null
+            },
+            "size_string": "1 ct",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
+            "source": null,
+            "source_id": null,
+            "sponsored": false,
+            "status": true,
+            "tags": [
+                "organic",
+                "wegmans_brand"
+            ],
+            "uom_price": {
+                "price": 2.49,
+                "uom": "lb"
+            },
+            "usa_snap_eligible": true,
+            "user_rating": null
+        },
+        {
+            "_links": null,
+            "additional_images": [],
+            "aisle": "    Produce",
+            "alcohol_retailer_id": null,
+            "availability": {
+                "source": "DEF/ETL",
+                "stock_level": 0
+            },
+            "availability_message": null,
+            "availability_status": true,
+            "average_uom": "lb",
+            "average_weight": "0.6",
+            "base_price": 1.19,
+            "base_quantity": 1,
+            "brand_name": null,
+            "categories": [
+                {
+                    "id": "74",
+                    "name": "Produce & Floral"
+                },
+                {
+                    "id": "75",
+                    "name": "Fruit"
+                },
+                {
+                    "id": "76",
+                    "name": "Apples"
+                }
+            ],
+            "display_uom": "ea",
+            "ext_data": {
+                "retailer_reference_code": "776474"
+            },
+            "ext_id": "776474",
+            "fulfillment_inventory_area_id": "3576",
+            "fulfillment_retailer_id": "231",
+            "fulfillment_retailer_store_id": "16",
+            "fulfillment_store_number": "5758",
+            "fulfillment_types": [
+                "instore",
+                "pickup",
+                "delivery"
+            ],
+            "href": "/store_products/264123",
+            "ic_item_id": "154857216046",
+            "ic_product_id": "27970853",
+            "id": "264123",
+            "images": {
+                "tile": {
+                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_7494e9bf-376a-4c36-8750-ee07de6eeaf7.jpeg",
+                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_7494e9bf-376a-4c36-8750-ee07de6eeaf7.jpeg",
+                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_7494e9bf-376a-4c36-8750-ee07de6eeaf7.jpeg"
+                }
+            },
+            "is_alcoholic": false,
+            "loyalty_end_date": null,
+            "loyalty_price": null,
+            "loyalty_quantity": null,
+            "message_code": null,
+            "modified": "Tue, 16 Jul 2024 08:03:36 GMT",
+            "name": "Evercrisp Apples",
             "offers": null,
             "order_by_weight": false,
             "ordering_parameters": {
@@ -3891,20 +3685,17 @@
                 "result_set": 0,
                 "score": null
             },
-            "size_string": "3 lb",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "size_string": null,
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
             "status": true,
             "tags": [
-                "family_pack",
-                "heart_healthy",
-                "organic",
                 "wegmans_brand"
             ],
             "uom_price": {
-                "price": 2.5,
+                "price": 1.99,
                 "uom": "lb"
             },
             "usa_snap_eligible": true,
@@ -3996,7 +3787,7 @@
                 "score": null
             },
             "size_string": "1.2 oz",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -4024,113 +3815,10 @@
             },
             "availability_message": null,
             "availability_status": true,
-            "average_uom": "lb",
-            "average_weight": "0.394",
-            "base_price": 0.98,
-            "base_quantity": 1,
-            "brand_name": null,
-            "categories": [
-                {
-                    "id": "74",
-                    "name": "Produce & Floral"
-                },
-                {
-                    "id": "75",
-                    "name": "Fruit"
-                },
-                {
-                    "id": "76",
-                    "name": "Apples"
-                }
-            ],
-            "display_uom": "ea",
-            "ext_data": {
-                "retailer_reference_code": "172085"
-            },
-            "ext_id": "172085",
-            "fulfillment_inventory_area_id": "3576",
-            "fulfillment_retailer_id": "231",
-            "fulfillment_retailer_store_id": "16",
-            "fulfillment_store_number": "5758",
-            "fulfillment_types": [
-                "instore",
-                "pickup",
-                "delivery"
-            ],
-            "href": "/store_products/45736",
-            "ic_item_id": "79122548",
-            "ic_product_id": "16631867",
-            "id": "45736",
-            "images": {
-                "tile": {
-                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_47839e58-95b5-4eb5-8421-1917f2ec96bf.jpeg",
-                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_47839e58-95b5-4eb5-8421-1917f2ec96bf.jpeg",
-                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_47839e58-95b5-4eb5-8421-1917f2ec96bf.jpeg"
-                }
-            },
-            "is_alcoholic": false,
-            "loyalty_end_date": null,
-            "loyalty_price": null,
-            "loyalty_quantity": null,
-            "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:40:04 GMT",
-            "name": "Organic Granny Smith Apples",
-            "offers": null,
-            "order_by_weight": false,
-            "ordering_parameters": {
-                "increment": 1,
-                "max": 100,
-                "min": 1
-            },
-            "price_alert": null,
-            "product_config": null,
-            "product_rating": {
-                "average_rating": 4.0,
-                "user_count": 2
-            },
-            "product_type": "product",
-            "promo_tag": null,
-            "promo_tag_percentage": null,
-            "reco_rating": 3.0,
-            "sale_end_date": null,
-            "sale_price": null,
-            "sale_quantity": null,
-            "search_result": {
-                "result_set": 0,
-                "score": null
-            },
-            "size_string": "1 ct",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
-            "source": null,
-            "source_id": null,
-            "sponsored": false,
-            "status": true,
-            "tags": [
-                "organic",
-                "wegmans_brand"
-            ],
-            "uom_price": {
-                "price": 2.49,
-                "uom": "lb"
-            },
-            "usa_snap_eligible": true,
-            "user_rating": null
-        },
-        {
-            "_links": null,
-            "additional_images": [],
-            "aisle": "    Produce",
-            "alcohol_retailer_id": null,
-            "availability": {
-                "source": "DEF/ETL",
-                "stock_level": 0
-            },
-            "availability_message": null,
-            "availability_status": true,
             "average_weight": null,
-            "base_price": 8.99,
+            "base_price": 6.49,
             "base_quantity": 1,
-            "brand_name": null,
+            "brand_name": "wegmans",
             "categories": [
                 {
                     "id": "74",
@@ -4147,9 +3835,9 @@
             ],
             "display_uom": "ea",
             "ext_data": {
-                "retailer_reference_code": "51856"
+                "retailer_reference_code": "23457"
             },
-            "ext_id": "51856",
+            "ext_id": "23457",
             "fulfillment_inventory_area_id": "3576",
             "fulfillment_retailer_id": "231",
             "fulfillment_retailer_store_id": "16",
@@ -4159,15 +3847,15 @@
                 "pickup",
                 "delivery"
             ],
-            "href": "/store_products/224146",
-            "ic_item_id": "2981544697",
-            "ic_product_id": "23852560",
-            "id": "224146",
+            "href": "/store_products/266070",
+            "ic_item_id": "179642331966",
+            "ic_product_id": "22019605",
+            "id": "266070",
             "images": {
                 "tile": {
-                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_b018ffe3-402c-4f04-855f-6328398d722e.jpeg",
-                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_b018ffe3-402c-4f04-855f-6328398d722e.jpeg",
-                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_b018ffe3-402c-4f04-855f-6328398d722e.jpeg"
+                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_e1258d8d-4d94-478c-a91d-5f0070cd36ed.jpeg",
+                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_e1258d8d-4d94-478c-a91d-5f0070cd36ed.jpeg",
+                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_e1258d8d-4d94-478c-a91d-5f0070cd36ed.jpeg"
                 }
             },
             "is_alcoholic": false,
@@ -4175,8 +3863,8 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 11:37:52 GMT",
-            "name": "Pazazz Apples, Bagged",
+            "modified": "Tue, 16 Jul 2024 08:04:08 GMT",
+            "name": "Wegmans Organic Fuji Apples, FAMILY PACK",
             "offers": null,
             "order_by_weight": false,
             "ordering_parameters": {
@@ -4187,8 +3875,8 @@
             "price_alert": null,
             "product_config": null,
             "product_rating": {
-                "average_rating": 5.0,
-                "user_count": 10
+                "average_rating": 3.6,
+                "user_count": 5
             },
             "product_type": "product",
             "promo_tag": null,
@@ -4201,22 +3889,20 @@
                 "result_set": 0,
                 "score": null
             },
-            "size_string": "8 lb",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "size_string": "3 lb",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
             "status": true,
             "tags": [
-                "_internal_any_gluten_free",
                 "family_pack",
-                "gluten_free",
                 "heart_healthy",
-                "lactose_free",
+                "organic",
                 "wegmans_brand"
             ],
             "uom_price": {
-                "price": 1.12,
+                "price": 2.16,
                 "uom": "lb"
             },
             "usa_snap_eligible": true,
@@ -4233,111 +3919,9 @@
             },
             "availability_message": null,
             "availability_status": true,
-            "average_weight": null,
-            "base_price": 6.49,
-            "base_quantity": 1,
-            "brand_name": null,
-            "categories": [
-                {
-                    "id": "74",
-                    "name": "Produce & Floral"
-                },
-                {
-                    "id": "603",
-                    "name": "Packaged Fruits and Berries"
-                },
-                {
-                    "id": "79",
-                    "name": "Berries and Strawberries"
-                }
-            ],
-            "display_uom": "ea",
-            "ext_data": {
-                "retailer_reference_code": "286737"
-            },
-            "ext_id": "286737",
-            "fulfillment_inventory_area_id": "3576",
-            "fulfillment_retailer_id": "231",
-            "fulfillment_retailer_store_id": "16",
-            "fulfillment_store_number": "5758",
-            "fulfillment_types": [
-                "instore",
-                "pickup",
-                "delivery"
-            ],
-            "href": "/store_products/253772",
-            "ic_item_id": "25356836718",
-            "ic_product_id": "17327071",
-            "id": "253772",
-            "images": {
-                "tile": {
-                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_16c7e89c-575d-4843-adfc-5ddc433a3983.jpeg",
-                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_16c7e89c-575d-4843-adfc-5ddc433a3983.jpeg",
-                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_16c7e89c-575d-4843-adfc-5ddc433a3983.jpeg"
-                }
-            },
-            "is_alcoholic": false,
-            "loyalty_end_date": null,
-            "loyalty_price": null,
-            "loyalty_quantity": null,
-            "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:40:17 GMT",
-            "name": "Blackberries, FAMILY PACK",
-            "offers": null,
-            "order_by_weight": false,
-            "ordering_parameters": {
-                "increment": 1,
-                "max": 100,
-                "min": 1
-            },
-            "price_alert": null,
-            "product_config": null,
-            "product_rating": {
-                "average_rating": 3.5,
-                "user_count": 2
-            },
-            "product_type": "product",
-            "promo_tag": null,
-            "promo_tag_percentage": null,
-            "reco_rating": 3.0,
-            "sale_end_date": null,
-            "sale_price": null,
-            "sale_quantity": null,
-            "search_result": {
-                "result_set": 0,
-                "score": null
-            },
-            "size_string": "12 oz package",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
-            "source": null,
-            "source_id": null,
-            "sponsored": false,
-            "status": true,
-            "tags": [
-                "family_pack",
-                "heart_healthy"
-            ],
-            "uom_price": {
-                "price": 0.54,
-                "uom": "oz package"
-            },
-            "usa_snap_eligible": true,
-            "user_rating": null
-        },
-        {
-            "_links": null,
-            "additional_images": [],
-            "aisle": "    Produce",
-            "alcohol_retailer_id": null,
-            "availability": {
-                "source": "DEF/ETL",
-                "stock_level": 0
-            },
-            "availability_message": null,
-            "availability_status": true,
             "average_uom": "lb",
-            "average_weight": "0.6",
-            "base_price": 1.19,
+            "average_weight": "0.5",
+            "base_price": 1.0,
             "base_quantity": 1,
             "brand_name": null,
             "categories": [
@@ -4356,9 +3940,9 @@
             ],
             "display_uom": "ea",
             "ext_data": {
-                "retailer_reference_code": "776474"
+                "retailer_reference_code": "373153"
             },
-            "ext_id": "776474",
+            "ext_id": "373153",
             "fulfillment_inventory_area_id": "3576",
             "fulfillment_retailer_id": "231",
             "fulfillment_retailer_store_id": "16",
@@ -4368,15 +3952,15 @@
                 "pickup",
                 "delivery"
             ],
-            "href": "/store_products/264123",
-            "ic_item_id": "154857216046",
-            "ic_product_id": "27970853",
-            "id": "264123",
+            "href": "/store_products/3349",
+            "ic_item_id": "88369424",
+            "ic_product_id": "16345710",
+            "id": "3349",
             "images": {
                 "tile": {
-                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_7494e9bf-376a-4c36-8750-ee07de6eeaf7.jpeg",
-                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_7494e9bf-376a-4c36-8750-ee07de6eeaf7.jpeg",
-                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_7494e9bf-376a-4c36-8750-ee07de6eeaf7.jpeg"
+                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_4bdde87f-abfa-4a93-86e3-b945ae30a037.jpeg",
+                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_4bdde87f-abfa-4a93-86e3-b945ae30a037.jpeg",
+                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_4bdde87f-abfa-4a93-86e3-b945ae30a037.jpeg"
                 }
             },
             "is_alcoholic": false,
@@ -4384,8 +3968,8 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:39:38 GMT",
-            "name": "Evercrisp Apples",
+            "modified": "Tue, 16 Jul 2024 07:42:14 GMT",
+            "name": "SweeTango Apples",
             "offers": null,
             "order_by_weight": false,
             "ordering_parameters": {
@@ -4396,8 +3980,8 @@
             "price_alert": null,
             "product_config": null,
             "product_rating": {
-                "average_rating": 5.0,
-                "user_count": 1
+                "average_rating": 4.642857142857143,
+                "user_count": 28
             },
             "product_type": "product",
             "promo_tag": null,
@@ -4410,8 +3994,8 @@
                 "result_set": 0,
                 "score": null
             },
-            "size_string": null,
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "size_string": "1 ct",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -4485,7 +4069,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:39:46 GMT",
+            "modified": "Tue, 16 Jul 2024 07:43:01 GMT",
             "name": "Wegmans Bagged Honeycrisp Apples, FAMILY PACK",
             "offers": null,
             "order_by_weight": false,
@@ -4512,7 +4096,7 @@
                 "score": null
             },
             "size_string": "128 oz bag",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -4528,6 +4112,318 @@
             "uom_price": {
                 "price": 0.12,
                 "uom": "oz bag"
+            },
+            "usa_snap_eligible": true,
+            "user_rating": null
+        },
+        {
+            "_links": null,
+            "additional_images": [],
+            "aisle": "    Produce",
+            "alcohol_retailer_id": null,
+            "availability": {
+                "source": "DEF/ETL",
+                "stock_level": 0
+            },
+            "availability_message": null,
+            "availability_status": true,
+            "average_weight": null,
+            "base_price": 7.99,
+            "base_quantity": 1,
+            "brand_name": "wegmans",
+            "categories": [
+                {
+                    "id": "74",
+                    "name": "Produce & Floral"
+                },
+                {
+                    "id": "75",
+                    "name": "Fruit"
+                },
+                {
+                    "id": "77",
+                    "name": "Bagged Apples"
+                }
+            ],
+            "display_uom": "ea",
+            "ext_data": {
+                "retailer_reference_code": "23052"
+            },
+            "ext_id": "23052",
+            "fulfillment_inventory_area_id": "3576",
+            "fulfillment_retailer_id": "231",
+            "fulfillment_retailer_store_id": "16",
+            "fulfillment_store_number": "5758",
+            "fulfillment_types": [
+                "instore",
+                "pickup",
+                "delivery"
+            ],
+            "href": "/store_products/264190",
+            "ic_item_id": "155500503627",
+            "ic_product_id": "21025432",
+            "id": "264190",
+            "images": {
+                "tile": {
+                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_0df550f5-4ea7-42a7-855b-2122dccb26fa.jpeg",
+                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_0df550f5-4ea7-42a7-855b-2122dccb26fa.jpeg",
+                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_0df550f5-4ea7-42a7-855b-2122dccb26fa.jpeg"
+                }
+            },
+            "is_alcoholic": false,
+            "loyalty_end_date": null,
+            "loyalty_price": null,
+            "loyalty_quantity": null,
+            "message_code": null,
+            "modified": "Tue, 16 Jul 2024 07:43:39 GMT",
+            "name": "Wegmans Gala Apples, Bagged, FAMILY PACK",
+            "offers": null,
+            "order_by_weight": false,
+            "ordering_parameters": {
+                "increment": 1,
+                "max": 100,
+                "min": 1
+            },
+            "price_alert": null,
+            "product_config": null,
+            "product_rating": {
+                "average_rating": 5.0,
+                "user_count": 5
+            },
+            "product_type": "product",
+            "promo_tag": null,
+            "promo_tag_percentage": null,
+            "reco_rating": 3.0,
+            "sale_end_date": null,
+            "sale_price": null,
+            "sale_quantity": null,
+            "search_result": {
+                "result_set": 0,
+                "score": null
+            },
+            "size_string": "8 lb",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
+            "source": null,
+            "source_id": null,
+            "sponsored": false,
+            "status": true,
+            "tags": [
+                "family_pack",
+                "heart_healthy",
+                "wegmans_brand"
+            ],
+            "uom_price": {
+                "price": 1.0,
+                "uom": "lb"
+            },
+            "usa_snap_eligible": true,
+            "user_rating": null
+        },
+        {
+            "_links": null,
+            "additional_images": [],
+            "aisle": "    Produce",
+            "alcohol_retailer_id": null,
+            "availability": {
+                "source": "DEF/ETL",
+                "stock_level": 0
+            },
+            "availability_message": null,
+            "availability_status": true,
+            "average_weight": null,
+            "base_price": 7.99,
+            "base_quantity": 1,
+            "brand_name": "wegmans",
+            "categories": [
+                {
+                    "id": "74",
+                    "name": "Produce & Floral"
+                },
+                {
+                    "id": "75",
+                    "name": "Fruit"
+                },
+                {
+                    "id": "77",
+                    "name": "Bagged Apples"
+                }
+            ],
+            "display_uom": "ea",
+            "ext_data": {
+                "retailer_reference_code": "119376"
+            },
+            "ext_id": "119376",
+            "fulfillment_inventory_area_id": "3576",
+            "fulfillment_retailer_id": "231",
+            "fulfillment_retailer_store_id": "16",
+            "fulfillment_store_number": "5758",
+            "fulfillment_types": [
+                "instore",
+                "pickup",
+                "delivery"
+            ],
+            "href": "/store_products/16772",
+            "ic_item_id": "79090634",
+            "ic_product_id": "16963889",
+            "id": "16772",
+            "images": {
+                "tile": {
+                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_e22c73e9-aee9-42f8-acf4-b757f1dc0e20.jpeg",
+                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_e22c73e9-aee9-42f8-acf4-b757f1dc0e20.jpeg",
+                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_e22c73e9-aee9-42f8-acf4-b757f1dc0e20.jpeg"
+                }
+            },
+            "is_alcoholic": false,
+            "loyalty_end_date": null,
+            "loyalty_price": null,
+            "loyalty_quantity": null,
+            "message_code": null,
+            "modified": "Tue, 16 Jul 2024 07:43:59 GMT",
+            "name": "Wegmans Red Delicious Apples, Bagged, FAMILY PACK",
+            "offers": null,
+            "order_by_weight": false,
+            "ordering_parameters": {
+                "increment": 1,
+                "max": 100,
+                "min": 1
+            },
+            "price_alert": null,
+            "product_config": null,
+            "product_rating": {
+                "average_rating": 5.0,
+                "user_count": 1
+            },
+            "product_type": "product",
+            "promo_tag": null,
+            "promo_tag_percentage": null,
+            "reco_rating": 3.0,
+            "sale_end_date": null,
+            "sale_price": null,
+            "sale_quantity": null,
+            "search_result": {
+                "result_set": 0,
+                "score": null
+            },
+            "size_string": "128 oz bag",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
+            "source": null,
+            "source_id": null,
+            "sponsored": false,
+            "status": true,
+            "tags": [
+                "family_pack",
+                "heart_healthy",
+                "wegmans_brand"
+            ],
+            "uom_price": {
+                "price": 0.06,
+                "uom": "oz bag"
+            },
+            "usa_snap_eligible": true,
+            "user_rating": null
+        },
+        {
+            "_links": null,
+            "additional_images": [],
+            "aisle": "    Produce",
+            "alcohol_retailer_id": null,
+            "availability": {
+                "source": "DEF/ETL",
+                "stock_level": 0
+            },
+            "availability_message": null,
+            "availability_status": true,
+            "average_weight": null,
+            "base_price": 8.99,
+            "base_quantity": 1,
+            "brand_name": null,
+            "categories": [
+                {
+                    "id": "74",
+                    "name": "Produce & Floral"
+                },
+                {
+                    "id": "75",
+                    "name": "Fruit"
+                },
+                {
+                    "id": "77",
+                    "name": "Bagged Apples"
+                }
+            ],
+            "display_uom": "ea",
+            "ext_data": {
+                "retailer_reference_code": "51856"
+            },
+            "ext_id": "51856",
+            "fulfillment_inventory_area_id": "3576",
+            "fulfillment_retailer_id": "231",
+            "fulfillment_retailer_store_id": "16",
+            "fulfillment_store_number": "5758",
+            "fulfillment_types": [
+                "instore",
+                "pickup",
+                "delivery"
+            ],
+            "href": "/store_products/224146",
+            "ic_item_id": "2981544697",
+            "ic_product_id": "23852560",
+            "id": "224146",
+            "images": {
+                "tile": {
+                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_b018ffe3-402c-4f04-855f-6328398d722e.jpeg",
+                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_b018ffe3-402c-4f04-855f-6328398d722e.jpeg",
+                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_b018ffe3-402c-4f04-855f-6328398d722e.jpeg"
+                }
+            },
+            "is_alcoholic": false,
+            "loyalty_end_date": null,
+            "loyalty_price": null,
+            "loyalty_quantity": null,
+            "message_code": null,
+            "modified": "Tue, 16 Jul 2024 07:42:39 GMT",
+            "name": "Pazazz Apples, Bagged",
+            "offers": null,
+            "order_by_weight": false,
+            "ordering_parameters": {
+                "increment": 1,
+                "max": 100,
+                "min": 1
+            },
+            "price_alert": null,
+            "product_config": null,
+            "product_rating": {
+                "average_rating": 5.0,
+                "user_count": 10
+            },
+            "product_type": "product",
+            "promo_tag": null,
+            "promo_tag_percentage": null,
+            "reco_rating": 3.0,
+            "sale_end_date": null,
+            "sale_price": null,
+            "sale_quantity": null,
+            "search_result": {
+                "result_set": 0,
+                "score": null
+            },
+            "size_string": "8 lb",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
+            "source": null,
+            "source_id": null,
+            "sponsored": false,
+            "status": true,
+            "tags": [
+                "_internal_any_gluten_free",
+                "family_pack",
+                "gluten_free",
+                "heart_healthy",
+                "lactose_free",
+                "wegmans_brand"
+            ],
+            "uom_price": {
+                "price": 1.12,
+                "uom": "lb"
             },
             "usa_snap_eligible": true,
             "user_rating": null
@@ -4591,7 +4487,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:39:48 GMT",
+            "modified": "Tue, 16 Jul 2024 07:43:42 GMT",
             "name": "Wegmans Fresh Cut Pineapple Spears",
             "offers": null,
             "order_by_weight": false,
@@ -4618,7 +4514,7 @@
                 "score": null
             },
             "size_string": "19 oz",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -4648,11 +4544,10 @@
             },
             "availability_message": null,
             "availability_status": true,
-            "average_uom": "lb",
-            "average_weight": "0.4575",
-            "base_price": 1.83,
+            "average_weight": null,
+            "base_price": 7.49,
             "base_quantity": 1,
-            "brand_name": null,
+            "brand_name": "wegmans",
             "categories": [
                 {
                     "id": "74",
@@ -4663,15 +4558,15 @@
                     "name": "Fruit"
                 },
                 {
-                    "id": "86",
-                    "name": "Peaches, Plums, Nectarines and Apricots"
+                    "id": "77",
+                    "name": "Bagged Apples"
                 }
             ],
             "display_uom": "ea",
             "ext_data": {
-                "retailer_reference_code": "92585"
+                "retailer_reference_code": "23458"
             },
-            "ext_id": "92585",
+            "ext_id": "23458",
             "fulfillment_inventory_area_id": "3576",
             "fulfillment_retailer_id": "231",
             "fulfillment_retailer_store_id": "16",
@@ -4681,15 +4576,15 @@
                 "pickup",
                 "delivery"
             ],
-            "href": "/store_products/58757",
-            "ic_item_id": "88261373",
-            "ic_product_id": "16621849",
-            "id": "58757",
+            "href": "/store_products/21634",
+            "ic_item_id": "78994565",
+            "ic_product_id": "1572880",
+            "id": "21634",
             "images": {
                 "tile": {
-                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_c2aac913-f803-4321-b61a-3f379aa1c6eb.jpeg",
-                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_c2aac913-f803-4321-b61a-3f379aa1c6eb.jpeg",
-                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_c2aac913-f803-4321-b61a-3f379aa1c6eb.jpeg"
+                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_7a1cebfb-b6e3-407d-b193-f20cef1c32b7.jpeg",
+                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_7a1cebfb-b6e3-407d-b193-f20cef1c32b7.jpeg",
+                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_7a1cebfb-b6e3-407d-b193-f20cef1c32b7.jpeg"
                 }
             },
             "is_alcoholic": false,
@@ -4697,8 +4592,8 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:39:42 GMT",
-            "name": "White Nectarines",
+            "modified": "Tue, 16 Jul 2024 08:02:59 GMT",
+            "name": "Wegmans Organic Bagged Granny Smith Apples, FAMILY PACK",
             "offers": null,
             "order_by_weight": false,
             "ordering_parameters": {
@@ -4709,8 +4604,8 @@
             "price_alert": null,
             "product_config": null,
             "product_rating": {
-                "average_rating": 4.5,
-                "user_count": 10
+                "average_rating": 5.0,
+                "user_count": 1
             },
             "product_type": "product",
             "promo_tag": null,
@@ -4723,17 +4618,20 @@
                 "result_set": 0,
                 "score": null
             },
-            "size_string": "1 ct",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "size_string": "3 lb",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
             "status": true,
             "tags": [
+                "family_pack",
+                "heart_healthy",
+                "organic",
                 "wegmans_brand"
             ],
             "uom_price": {
-                "price": 3.99,
+                "price": 2.5,
                 "uom": "lb"
             },
             "usa_snap_eligible": true,
@@ -4799,7 +4697,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:38:50 GMT",
+            "modified": "Tue, 16 Jul 2024 08:03:26 GMT",
             "name": "Pazazz Apples, Bulk",
             "offers": null,
             "order_by_weight": false,
@@ -4826,7 +4724,7 @@
                 "score": null
             },
             "size_string": null,
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -4836,212 +4734,6 @@
             ],
             "uom_price": {
                 "price": 2.49,
-                "uom": "lb"
-            },
-            "usa_snap_eligible": true,
-            "user_rating": null
-        },
-        {
-            "_links": null,
-            "additional_images": [],
-            "aisle": "    Produce",
-            "alcohol_retailer_id": null,
-            "availability": {
-                "source": "DEF/ETL",
-                "stock_level": 0
-            },
-            "availability_message": null,
-            "availability_status": true,
-            "average_weight": null,
-            "base_price": 7.99,
-            "base_quantity": 1,
-            "brand_name": "wegmans",
-            "categories": [
-                {
-                    "id": "74",
-                    "name": "Produce & Floral"
-                },
-                {
-                    "id": "75",
-                    "name": "Fruit"
-                },
-                {
-                    "id": "77",
-                    "name": "Bagged Apples"
-                }
-            ],
-            "display_uom": "ea",
-            "ext_data": {
-                "retailer_reference_code": "119376"
-            },
-            "ext_id": "119376",
-            "fulfillment_inventory_area_id": "3576",
-            "fulfillment_retailer_id": "231",
-            "fulfillment_retailer_store_id": "16",
-            "fulfillment_store_number": "5758",
-            "fulfillment_types": [
-                "instore",
-                "pickup",
-                "delivery"
-            ],
-            "href": "/store_products/16772",
-            "ic_item_id": "79090634",
-            "ic_product_id": "16963889",
-            "id": "16772",
-            "images": {
-                "tile": {
-                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_e22c73e9-aee9-42f8-acf4-b757f1dc0e20.jpeg",
-                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_e22c73e9-aee9-42f8-acf4-b757f1dc0e20.jpeg",
-                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_e22c73e9-aee9-42f8-acf4-b757f1dc0e20.jpeg"
-                }
-            },
-            "is_alcoholic": false,
-            "loyalty_end_date": null,
-            "loyalty_price": null,
-            "loyalty_quantity": null,
-            "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:40:06 GMT",
-            "name": "Wegmans Red Delicious Apples, Bagged, FAMILY PACK",
-            "offers": null,
-            "order_by_weight": false,
-            "ordering_parameters": {
-                "increment": 1,
-                "max": 100,
-                "min": 1
-            },
-            "price_alert": null,
-            "product_config": null,
-            "product_rating": {
-                "average_rating": 5.0,
-                "user_count": 1
-            },
-            "product_type": "product",
-            "promo_tag": null,
-            "promo_tag_percentage": null,
-            "reco_rating": 3.0,
-            "sale_end_date": null,
-            "sale_price": null,
-            "sale_quantity": null,
-            "search_result": {
-                "result_set": 0,
-                "score": null
-            },
-            "size_string": "128 oz bag",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
-            "source": null,
-            "source_id": null,
-            "sponsored": false,
-            "status": true,
-            "tags": [
-                "family_pack",
-                "heart_healthy",
-                "wegmans_brand"
-            ],
-            "uom_price": {
-                "price": 0.06,
-                "uom": "oz bag"
-            },
-            "usa_snap_eligible": true,
-            "user_rating": null
-        },
-        {
-            "_links": null,
-            "additional_images": [],
-            "aisle": "    Produce",
-            "alcohol_retailer_id": null,
-            "availability": {
-                "source": "DEF/ETL",
-                "stock_level": 0
-            },
-            "availability_message": null,
-            "availability_status": true,
-            "average_weight": null,
-            "base_price": 7.99,
-            "base_quantity": 1,
-            "brand_name": "wegmans",
-            "categories": [
-                {
-                    "id": "74",
-                    "name": "Produce & Floral"
-                },
-                {
-                    "id": "75",
-                    "name": "Fruit"
-                },
-                {
-                    "id": "77",
-                    "name": "Bagged Apples"
-                }
-            ],
-            "display_uom": "ea",
-            "ext_data": {
-                "retailer_reference_code": "23052"
-            },
-            "ext_id": "23052",
-            "fulfillment_inventory_area_id": "3576",
-            "fulfillment_retailer_id": "231",
-            "fulfillment_retailer_store_id": "16",
-            "fulfillment_store_number": "5758",
-            "fulfillment_types": [
-                "instore",
-                "pickup",
-                "delivery"
-            ],
-            "href": "/store_products/264190",
-            "ic_item_id": "155500503627",
-            "ic_product_id": "21025432",
-            "id": "264190",
-            "images": {
-                "tile": {
-                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_0df550f5-4ea7-42a7-855b-2122dccb26fa.jpeg",
-                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_0df550f5-4ea7-42a7-855b-2122dccb26fa.jpeg",
-                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_0df550f5-4ea7-42a7-855b-2122dccb26fa.jpeg"
-                }
-            },
-            "is_alcoholic": false,
-            "loyalty_end_date": null,
-            "loyalty_price": null,
-            "loyalty_quantity": null,
-            "message_code": null,
-            "modified": "Mon, 15 Jul 2024 11:37:35 GMT",
-            "name": "Wegmans Gala Apples, Bagged, FAMILY PACK",
-            "offers": null,
-            "order_by_weight": false,
-            "ordering_parameters": {
-                "increment": 1,
-                "max": 100,
-                "min": 1
-            },
-            "price_alert": null,
-            "product_config": null,
-            "product_rating": {
-                "average_rating": 5.0,
-                "user_count": 5
-            },
-            "product_type": "product",
-            "promo_tag": null,
-            "promo_tag_percentage": null,
-            "reco_rating": 3.0,
-            "sale_end_date": null,
-            "sale_price": null,
-            "sale_quantity": null,
-            "search_result": {
-                "result_set": 0,
-                "score": null
-            },
-            "size_string": "8 lb",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
-            "source": null,
-            "source_id": null,
-            "sponsored": false,
-            "status": true,
-            "tags": [
-                "family_pack",
-                "heart_healthy",
-                "wegmans_brand"
-            ],
-            "uom_price": {
-                "price": 1.0,
                 "uom": "lb"
             },
             "usa_snap_eligible": true,
@@ -5106,7 +4798,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 11:38:15 GMT",
+            "modified": "Tue, 16 Jul 2024 07:42:47 GMT",
             "name": "Wegmans McIntosh Apples, Bagged, FAMILY PACK",
             "offers": null,
             "order_by_weight": false,
@@ -5133,7 +4825,7 @@
                 "score": null
             },
             "size_string": "128 oz bag",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -5209,7 +4901,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:40:06 GMT",
+            "modified": "Tue, 16 Jul 2024 07:42:58 GMT",
             "name": "Wegmans Clementines, Bagged",
             "offers": null,
             "order_by_weight": false,
@@ -5236,7 +4928,7 @@
                 "score": null
             },
             "size_string": "2 lb Bag",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -5315,7 +5007,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:40:09 GMT",
+            "modified": "Tue, 16 Jul 2024 07:42:19 GMT",
             "name": "Wegmans Sugar Bee Apples, Bagged",
             "offers": null,
             "order_by_weight": false,
@@ -5342,7 +5034,7 @@
                 "score": null
             },
             "size_string": "3 lb",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -5417,7 +5109,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 11:38:28 GMT",
+            "modified": "Tue, 16 Jul 2024 08:03:59 GMT",
             "name": "Lemons",
             "offers": null,
             "order_by_weight": false,
@@ -5444,7 +5136,7 @@
                 "score": null
             },
             "size_string": "1 each",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -5518,7 +5210,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 11:38:07 GMT",
+            "modified": "Tue, 16 Jul 2024 08:03:49 GMT",
             "name": "Strawberries",
             "offers": null,
             "order_by_weight": false,
@@ -5545,7 +5237,7 @@
                 "score": null
             },
             "size_string": "16 oz Container",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -5620,7 +5312,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 07:34:27 GMT",
+            "modified": "Tue, 16 Jul 2024 08:03:14 GMT",
             "name": "Wegmans Organic Mini Apples",
             "offers": null,
             "order_by_weight": false,
@@ -5647,7 +5339,7 @@
                 "score": null
             },
             "size_string": null,
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -5675,9 +5367,9 @@
             "availability_message": null,
             "availability_status": true,
             "average_weight": null,
-            "base_price": 7.99,
+            "base_price": 2.69,
             "base_quantity": 1,
-            "brand_name": null,
+            "brand_name": "wegmans",
             "categories": [
                 {
                     "id": "74",
@@ -5688,15 +5380,15 @@
                     "name": "Fruit"
                 },
                 {
-                    "id": "85",
-                    "name": "Melons"
+                    "id": "89",
+                    "name": "Tropical Fruits"
                 }
             ],
             "display_uom": "ea",
             "ext_data": {
-                "retailer_reference_code": "92686"
+                "retailer_reference_code": "92660"
             },
-            "ext_id": "92686",
+            "ext_id": "92660",
             "fulfillment_inventory_area_id": "3576",
             "fulfillment_retailer_id": "231",
             "fulfillment_retailer_store_id": "16",
@@ -5706,15 +5398,15 @@
                 "pickup",
                 "delivery"
             ],
-            "href": "/store_products/35481",
-            "ic_item_id": "94532378",
-            "ic_product_id": "438714",
-            "id": "35481",
+            "href": "/store_products/252386",
+            "ic_item_id": "10869275682",
+            "ic_product_id": "25918028",
+            "id": "252386",
             "images": {
                 "tile": {
-                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_cc47ffa5-733d-49d7-a223-5f8bf4390100.jpeg",
-                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_cc47ffa5-733d-49d7-a223-5f8bf4390100.jpeg",
-                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_cc47ffa5-733d-49d7-a223-5f8bf4390100.jpeg"
+                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_eb16f693-94ec-42c9-9597-7cd2f6c1d410.jpeg",
+                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_eb16f693-94ec-42c9-9597-7cd2f6c1d410.jpeg",
+                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_eb16f693-94ec-42c9-9597-7cd2f6c1d410.jpeg"
                 }
             },
             "is_alcoholic": false,
@@ -5722,8 +5414,8 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:38:56 GMT",
-            "name": "Whole Watermelon, Seeded",
+            "modified": "Tue, 16 Jul 2024 07:42:02 GMT",
+            "name": "Wegmans Pineapple, Extra Sweet",
             "offers": null,
             "order_by_weight": false,
             "ordering_parameters": {
@@ -5734,8 +5426,8 @@
             "price_alert": null,
             "product_config": null,
             "product_rating": {
-                "average_rating": 4.5,
-                "user_count": 8
+                "average_rating": 2.8636363636363638,
+                "user_count": 22
             },
             "product_type": "product",
             "promo_tag": null,
@@ -5748,8 +5440,8 @@
                 "result_set": 0,
                 "score": null
             },
-            "size_string": "1 lb",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "size_string": "1 each",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -5758,8 +5450,8 @@
                 "wegmans_brand"
             ],
             "uom_price": {
-                "price": 7.99,
-                "uom": "lb"
+                "price": 2.69,
+                "uom": "each"
             },
             "usa_snap_eligible": true,
             "user_rating": null
@@ -5823,7 +5515,7 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 11:37:42 GMT",
+            "modified": "Tue, 16 Jul 2024 08:03:24 GMT",
             "name": "Cantaloupes",
             "offers": null,
             "order_by_weight": false,
@@ -5850,7 +5542,7 @@
                 "score": null
             },
             "size_string": "1 each",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -5868,7 +5560,7 @@
         {
             "_links": null,
             "additional_images": [],
-            "aisle": "10A - R - Section 1",
+            "aisle": "    Produce",
             "alcohol_retailer_id": null,
             "availability": {
                 "source": "DEF/ETL",
@@ -5877,28 +5569,28 @@
             "availability_message": null,
             "availability_status": true,
             "average_weight": null,
-            "base_price": 3.29,
+            "base_price": 7.99,
             "base_quantity": 1,
-            "brand_name": "pillsbury",
+            "brand_name": null,
             "categories": [
                 {
-                    "id": "260",
-                    "name": "Frozen"
+                    "id": "74",
+                    "name": "Produce & Floral"
                 },
                 {
-                    "id": "262",
-                    "name": "Breakfast"
+                    "id": "75",
+                    "name": "Fruit"
                 },
                 {
-                    "id": "1036",
-                    "name": "Sweets"
+                    "id": "85",
+                    "name": "Melons"
                 }
             ],
             "display_uom": "ea",
             "ext_data": {
-                "retailer_reference_code": "625758"
+                "retailer_reference_code": "92686"
             },
-            "ext_id": "625758",
+            "ext_id": "92686",
             "fulfillment_inventory_area_id": "3576",
             "fulfillment_retailer_id": "231",
             "fulfillment_retailer_store_id": "16",
@@ -5908,15 +5600,15 @@
                 "pickup",
                 "delivery"
             ],
-            "href": "/store_products/40008",
-            "ic_item_id": "79388236",
-            "ic_product_id": "2604058",
-            "id": "40008",
+            "href": "/store_products/35481",
+            "ic_item_id": "94532378",
+            "ic_product_id": "438714",
+            "id": "35481",
             "images": {
                 "tile": {
-                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_cf8db068-5f0a-4457-abc4-fc2eed8fec3a.jpeg",
-                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_cf8db068-5f0a-4457-abc4-fc2eed8fec3a.jpeg",
-                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_cf8db068-5f0a-4457-abc4-fc2eed8fec3a.jpeg"
+                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_cc47ffa5-733d-49d7-a223-5f8bf4390100.jpeg",
+                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_cc47ffa5-733d-49d7-a223-5f8bf4390100.jpeg",
+                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_cc47ffa5-733d-49d7-a223-5f8bf4390100.jpeg"
                 }
             },
             "is_alcoholic": false,
@@ -5924,8 +5616,8 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 11:37:35 GMT",
-            "name": "Pillsbury Toaster Strudel Toaster Pastries, Apple",
+            "modified": "Tue, 16 Jul 2024 07:43:46 GMT",
+            "name": "Whole Watermelon, Seeded",
             "offers": null,
             "order_by_weight": false,
             "ordering_parameters": {
@@ -5936,8 +5628,8 @@
             "price_alert": null,
             "product_config": null,
             "product_rating": {
-                "average_rating": 4.5,
-                "user_count": 2
+                "average_rating": 4.555555555555555,
+                "user_count": 9
             },
             "product_type": "product",
             "promo_tag": null,
@@ -5950,18 +5642,18 @@
                 "result_set": 0,
                 "score": null
             },
-            "size_string": "6 ct",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "size_string": "1 lb",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
             "status": true,
             "tags": [
-                "no_tags"
+                "wegmans_brand"
             ],
             "uom_price": {
-                "price": 0.55,
-                "uom": "ct"
+                "price": 7.99,
+                "uom": "lb"
             },
             "usa_snap_eligible": true,
             "user_rating": null
@@ -5978,28 +5670,28 @@
             "availability_message": null,
             "availability_status": true,
             "average_weight": null,
-            "base_price": 2,
+            "base_price": 5.99,
             "base_quantity": 1,
-            "brand_name": "wegmans",
+            "brand_name": null,
             "categories": [
                 {
                     "id": "74",
                     "name": "Produce & Floral"
                 },
                 {
-                    "id": "603",
-                    "name": "Packaged Fruits and Berries"
+                    "id": "75",
+                    "name": "Fruit"
                 },
                 {
-                    "id": "88",
-                    "name": "Snacks"
+                    "id": "85",
+                    "name": "Melons"
                 }
             ],
             "display_uom": "ea",
             "ext_data": {
-                "retailer_reference_code": "26855"
+                "retailer_reference_code": "189514"
             },
-            "ext_id": "26855",
+            "ext_id": "189514",
             "fulfillment_inventory_area_id": "3576",
             "fulfillment_retailer_id": "231",
             "fulfillment_retailer_store_id": "16",
@@ -6009,15 +5701,15 @@
                 "pickup",
                 "delivery"
             ],
-            "href": "/store_products/46097",
-            "ic_item_id": "79001879",
-            "ic_product_id": "16963401",
-            "id": "46097",
+            "href": "/store_products/214416",
+            "ic_item_id": "79102784",
+            "ic_product_id": "3115037",
+            "id": "214416",
             "images": {
                 "tile": {
-                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_7469abba-b2c3-44d1-963e-aaae0b5a88f6.jpeg",
-                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_7469abba-b2c3-44d1-963e-aaae0b5a88f6.jpeg",
-                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_7469abba-b2c3-44d1-963e-aaae0b5a88f6.jpeg"
+                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_a56649d6-5bd8-49dd-9047-f42b2c51bc74.jpeg",
+                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_a56649d6-5bd8-49dd-9047-f42b2c51bc74.jpeg",
+                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_a56649d6-5bd8-49dd-9047-f42b2c51bc74.jpeg"
                 }
             },
             "is_alcoholic": false,
@@ -6025,8 +5717,8 @@
             "loyalty_price": null,
             "loyalty_quantity": null,
             "message_code": null,
-            "modified": "Mon, 15 Jul 2024 14:40:02 GMT",
-            "name": "Wegmans Apples, Grapes & Cheese Bites",
+            "modified": "Tue, 16 Jul 2024 08:03:24 GMT",
+            "name": "Watermelon, Seedless",
             "offers": null,
             "order_by_weight": false,
             "ordering_parameters": {
@@ -6037,8 +5729,8 @@
             "price_alert": null,
             "product_config": null,
             "product_rating": {
-                "average_rating": 4.428571428571429,
-                "user_count": 7
+                "average_rating": 3.0285714285714285,
+                "user_count": 35
             },
             "product_type": "product",
             "promo_tag": null,
@@ -6051,20 +5743,224 @@
                 "result_set": 0,
                 "score": null
             },
-            "size_string": "5.5 oz",
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "size_string": null,
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
             "status": true,
             "tags": [
-                "_internal_any_gluten_free",
-                "gluten_free",
                 "wegmans_brand"
             ],
             "uom_price": {
-                "price": 0.36,
-                "uom": "oz"
+                "price": null,
+                "uom": null
+            },
+            "usa_snap_eligible": true,
+            "user_rating": null
+        },
+        {
+            "_links": null,
+            "additional_images": [],
+            "aisle": "    Produce",
+            "alcohol_retailer_id": null,
+            "availability": {
+                "source": "DEF/ETL",
+                "stock_level": 3
+            },
+            "availability_message": null,
+            "availability_status": true,
+            "average_weight": null,
+            "base_price": 9.99,
+            "base_quantity": 1,
+            "brand_name": "wegmans",
+            "categories": [
+                {
+                    "id": "74",
+                    "name": "Produce & Floral"
+                },
+                {
+                    "id": "75",
+                    "name": "Fruit"
+                },
+                {
+                    "id": "77",
+                    "name": "Bagged Apples"
+                }
+            ],
+            "display_uom": "ea",
+            "ext_data": {
+                "retailer_reference_code": "39761"
+            },
+            "ext_id": "39761",
+            "fulfillment_inventory_area_id": "3576",
+            "fulfillment_retailer_id": "231",
+            "fulfillment_retailer_store_id": "16",
+            "fulfillment_store_number": "5758",
+            "fulfillment_types": [
+                "instore",
+                "pickup",
+                "delivery"
+            ],
+            "href": "/store_products/266067",
+            "ic_item_id": "179481517818",
+            "ic_product_id": "20636774",
+            "id": "266067",
+            "images": {
+                "tile": {
+                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_61e408c5-7a0c-4214-bd96-656cdfcdc608.jpeg",
+                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_61e408c5-7a0c-4214-bd96-656cdfcdc608.jpeg",
+                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_61e408c5-7a0c-4214-bd96-656cdfcdc608.jpeg"
+                }
+            },
+            "is_alcoholic": false,
+            "loyalty_end_date": null,
+            "loyalty_price": null,
+            "loyalty_quantity": null,
+            "message_code": null,
+            "modified": "Tue, 16 Jul 2024 08:03:19 GMT",
+            "name": "Wegmans Organic Honeycrisp Apples, FAMILY PACK",
+            "offers": null,
+            "order_by_weight": false,
+            "ordering_parameters": {
+                "increment": 1,
+                "max": 100,
+                "min": 1
+            },
+            "price_alert": null,
+            "product_config": null,
+            "product_rating": {
+                "average_rating": 4.181818181818182,
+                "user_count": 11
+            },
+            "product_type": "product",
+            "promo_tag": null,
+            "promo_tag_percentage": null,
+            "reco_rating": 3.0,
+            "sale_end_date": null,
+            "sale_price": null,
+            "sale_quantity": null,
+            "search_result": {
+                "result_set": 0,
+                "score": null
+            },
+            "size_string": "3 lb",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
+            "source": null,
+            "source_id": null,
+            "sponsored": false,
+            "status": true,
+            "tags": [
+                "family_pack",
+                "heart_healthy",
+                "organic",
+                "wegmans_brand"
+            ],
+            "uom_price": {
+                "price": 3.33,
+                "uom": "lb"
+            },
+            "usa_snap_eligible": true,
+            "user_rating": null
+        },
+        {
+            "_links": null,
+            "additional_images": [],
+            "aisle": "    Produce",
+            "alcohol_retailer_id": null,
+            "availability": {
+                "source": "DEF/ETL",
+                "stock_level": 3
+            },
+            "availability_message": null,
+            "availability_status": true,
+            "average_uom": "lb",
+            "average_weight": "0.42",
+            "base_price": 1.26,
+            "base_quantity": 1,
+            "brand_name": "wegmans",
+            "categories": [
+                {
+                    "id": "74",
+                    "name": "Produce & Floral"
+                },
+                {
+                    "id": "75",
+                    "name": "Fruit"
+                },
+                {
+                    "id": "76",
+                    "name": "Apples"
+                }
+            ],
+            "display_uom": "ea",
+            "ext_data": {
+                "retailer_reference_code": "806544"
+            },
+            "ext_id": "806544",
+            "fulfillment_inventory_area_id": "3576",
+            "fulfillment_retailer_id": "231",
+            "fulfillment_retailer_store_id": "16",
+            "fulfillment_store_number": "5758",
+            "fulfillment_types": [
+                "instore",
+                "pickup",
+                "delivery"
+            ],
+            "href": "/store_products/216097",
+            "ic_item_id": "1383423768",
+            "ic_product_id": "19399024",
+            "id": "216097",
+            "images": {
+                "tile": {
+                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_fc40d66b-2008-4715-a321-ce2e32218b42.jpeg",
+                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_fc40d66b-2008-4715-a321-ce2e32218b42.jpeg",
+                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_fc40d66b-2008-4715-a321-ce2e32218b42.jpeg"
+                }
+            },
+            "is_alcoholic": false,
+            "loyalty_end_date": null,
+            "loyalty_price": null,
+            "loyalty_quantity": null,
+            "message_code": null,
+            "modified": "Tue, 16 Jul 2024 07:41:55 GMT",
+            "name": "Wegmans Sugar Bee Apples",
+            "offers": null,
+            "order_by_weight": false,
+            "ordering_parameters": {
+                "increment": 1,
+                "max": 100,
+                "min": 1
+            },
+            "price_alert": null,
+            "product_config": null,
+            "product_rating": {
+                "average_rating": 4.882352941176471,
+                "user_count": 17
+            },
+            "product_type": "product",
+            "promo_tag": null,
+            "promo_tag_percentage": null,
+            "reco_rating": 3.0,
+            "sale_end_date": null,
+            "sale_price": null,
+            "sale_quantity": null,
+            "search_result": {
+                "result_set": 0,
+                "score": null
+            },
+            "size_string": null,
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
+            "source": null,
+            "source_id": null,
+            "sponsored": false,
+            "status": true,
+            "tags": [
+                "wegmans_brand"
+            ],
+            "uom_price": {
+                "price": 2.99,
+                "uom": "lb"
             },
             "usa_snap_eligible": true,
             "user_rating": null
@@ -6141,8 +6037,8 @@
             "price_alert": null,
             "product_config": null,
             "product_rating": {
-                "average_rating": 5.0,
-                "user_count": 5
+                "average_rating": 4.666666666666667,
+                "user_count": 6
             },
             "product_type": "product",
             "promo_tag": null,
@@ -6156,7 +6052,7 @@
                 "score": null
             },
             "size_string": null,
-            "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
             "source": null,
             "source_id": null,
             "sponsored": false,
@@ -6170,15 +6066,117 @@
             },
             "usa_snap_eligible": true,
             "user_rating": null
+        },
+        {
+            "_links": null,
+            "additional_images": [],
+            "aisle": "    Produce",
+            "alcohol_retailer_id": null,
+            "availability": {
+                "source": "DEF/ETL",
+                "stock_level": 3
+            },
+            "availability_message": null,
+            "availability_status": true,
+            "average_weight": null,
+            "base_price": 6.49,
+            "base_quantity": 1,
+            "brand_name": null,
+            "categories": [
+                {
+                    "id": "74",
+                    "name": "Produce & Floral"
+                },
+                {
+                    "id": "603",
+                    "name": "Packaged Fruits and Berries"
+                },
+                {
+                    "id": "79",
+                    "name": "Berries and Strawberries"
+                }
+            ],
+            "display_uom": "ea",
+            "ext_data": {
+                "retailer_reference_code": "286737"
+            },
+            "ext_id": "286737",
+            "fulfillment_inventory_area_id": "3576",
+            "fulfillment_retailer_id": "231",
+            "fulfillment_retailer_store_id": "16",
+            "fulfillment_store_number": "5758",
+            "fulfillment_types": [
+                "instore",
+                "pickup",
+                "delivery"
+            ],
+            "href": "/store_products/253772",
+            "ic_item_id": "25356836718",
+            "ic_product_id": "17327071",
+            "id": "253772",
+            "images": {
+                "tile": {
+                    "large": "https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_16c7e89c-575d-4843-adfc-5ddc433a3983.jpeg",
+                    "medium": "https://d2d8wwwkmhfcva.cloudfront.net/800x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_16c7e89c-575d-4843-adfc-5ddc433a3983.jpeg",
+                    "small": "https://d2d8wwwkmhfcva.cloudfront.net/400x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_16c7e89c-575d-4843-adfc-5ddc433a3983.jpeg"
+                }
+            },
+            "is_alcoholic": false,
+            "loyalty_end_date": null,
+            "loyalty_price": null,
+            "loyalty_quantity": null,
+            "message_code": null,
+            "modified": "Tue, 16 Jul 2024 07:42:53 GMT",
+            "name": "Blackberries, FAMILY PACK",
+            "offers": null,
+            "order_by_weight": false,
+            "ordering_parameters": {
+                "increment": 1,
+                "max": 100,
+                "min": 1
+            },
+            "price_alert": null,
+            "product_config": null,
+            "product_rating": {
+                "average_rating": 3.5,
+                "user_count": 2
+            },
+            "product_type": "product",
+            "promo_tag": null,
+            "promo_tag_percentage": null,
+            "reco_rating": 3.0,
+            "sale_end_date": null,
+            "sale_price": null,
+            "sale_quantity": null,
+            "search_result": {
+                "result_set": 0,
+                "score": null
+            },
+            "size_string": "12 oz package",
+            "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
+            "source": null,
+            "source_id": null,
+            "sponsored": false,
+            "status": true,
+            "tags": [
+                "family_pack",
+                "heart_healthy"
+            ],
+            "uom_price": {
+                "price": 0.54,
+                "uom": "oz package"
+            },
+            "usa_snap_eligible": true,
+            "user_rating": null
         }
     ],
     "onLoadBeacon": null,
     "placements": [],
     "primary_search_term": "apple",
     "recall_strategies_applied": [
-        "NORMALIZATION",
-        "REMOVE_OFFENSIVE_RESULTS"
+        "NORMALIZATION"
     ],
     "search_provider": "ic",
-    "snrid": "67975bec-b300-4f58-a09f-b7d2db4a0c21"
+    "snrid": "46fa5cdd-bfab-464b-a973-5c7ad65cc985",
+    "session_token": "eyJhbGciOiJIUzI1NiJ9.eyJ1c2Vyc2Vzc2lvbl9pZCI6IjZhOWZmZDdhLWU4ODEtNGNhOC04ZTgwLWIzMTgyNmI4YmNhYyIsInVzZXJfaWQiOjQ5MzUzODIwNywiYWRtaW51c2VyX2lkIjpudWxsLCJhbm9ueW1vdXMiOnRydWUsImlhdCI6MTcyMDkzNDMyN30.qmEZ5WMbwZQDYZ6Bc-MnFOifHZMoaSoPL26_-Kp3LSc"
 }
